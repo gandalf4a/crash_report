@@ -2,8 +2,7 @@
 
 |  产品   | 程序文件  | 代码文件| 函数| 漏洞类型| url|
 |  ----  | ----  | ----  | ----  | ----  |----|
-| libpng  | pngimage |pngimage.c|compare_read|heap-buffer-overflow|
-https://github.com/glennrp/libpng/issues/481|
+| libpng  | pngimage |pngimage.c|compare_read|heap-buffer-overflow|https://github.com/glennrp/libpng/issues/481|
 
 ## libpng
 ### pngimage
