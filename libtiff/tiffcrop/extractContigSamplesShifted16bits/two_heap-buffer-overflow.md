@@ -143,6 +143,7 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 
 # POC File
 [poc_of_3863](https://github.com/gandalf4a/crash_report/blob/main/libtiff/tiffcrop/extractContigSamplesShifted16bits/poc_of_3863)
+
 [poc_of_3877](https://github.com/gandalf4a/crash_report/blob/main/libtiff/tiffcrop/extractContigSamplesShifted16bits/poc_of_3877)
 
 # Credit
