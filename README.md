@@ -119,6 +119,7 @@
         <td>https://forum.xpdfreader.com/viewtopic.php?t=44307</td>
     </tr>
 </table>
+
 ## libpng
 ### pngimage
 ##### 1_heap-buffer-overflow_compare_read
