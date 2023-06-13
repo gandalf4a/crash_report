@@ -297,15 +297,15 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 ./tiffcrop -E right  -z 1,1,2048,2048:1,2049,2048,4097 -i -s $poc_file /tmp/foo
 ```
 # POC File
-[poc_4106]()
+[poc_4106](https://github.com/gandalf4a/crash_report/blob/main/libtiff/tiffcrop/extractContigSamplesShifted32bits/poc_4106)
 
-[poc_4108]()
+[poc_4108](https://github.com/gandalf4a/crash_report/blob/main/libtiff/tiffcrop/extractContigSamplesShifted32bits/poc_4108)
 
-[poc_4110]()
+[poc_4110](https://github.com/gandalf4a/crash_report/blob/main/libtiff/tiffcrop/extractContigSamplesShifted32bits/poc_4110)
 
-[poc_4112]()
+[poc_4112](https://github.com/gandalf4a/crash_report/blob/main/libtiff/tiffcrop/extractContigSamplesShifted32bits/poc_4112)
 
-[poc_4124]()
+[poc_4124](https://github.com/gandalf4a/crash_report/blob/main/libtiff/tiffcrop/extractContigSamplesShifted32bits/poc_4124)
 
 # Credit
 Gandalf4a@QAXsrc
