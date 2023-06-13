@@ -9,7 +9,7 @@
         <td>函数</td>
         <td>类型</td>
         <td>数量</td>
-        <td>URL</td>
+        <td>issue</td>
         <td>时间</td>
     </tr>
     <tr>
