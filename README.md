@@ -1,15 +1,15 @@
 # crash & poc
 <table>
     <tr>
-        <td>产品</td>
-        <td>程序</td>
-        <td>版本</td>
-        <td>源码</td>
-        <td>位置</td>
-        <td>函数</td>
-        <td>类型</td>
+        <td>project</td>
+        <td>tool</td>
+        <td>version</td>
+        <td>source</td>
+        <td>path</td>
+        <td>function</td>
+        <td>type</td>
         <td>issue</td>
-        <td>时间</td>
+        <td>time</td>
     </tr>
     <tr>
         <td>libpng</td>
