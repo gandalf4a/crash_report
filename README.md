@@ -6,6 +6,9 @@
 |libtiff|liffcrop|tif_unix.c|TIFFmemcpy|heap-buffer-overflow & heap-use-after-free &  SIGSEGV|1|https://gitlab.com/libtiff/libtiff/-/issues/573|
 |||tiffcrop.c|extractContigSamplesShifted8bits|heap-buffer-overflow|2|https://gitlab.com/libtiff/libtiff/-/issues/563|
 |||||||https://gitlab.com/libtiff/libtiff/-/issues/562|
+||||extractContigSamplesShifted16bits|heap-buffer-overflow|2|https://gitlab.com/libtiff/libtiff/-/issues/563|
+||||extractContigSamplesShifted24bits|heap-buffer-overflow|2|https://gitlab.com/libtiff/libtiff/-/issues/563|
+||||extractContigSamplesShifted32bits|heap-buffer-overflow|2|https://gitlab.com/libtiff/libtiff/-/issues/563|
 
 ## libpng
 ### pngimage
