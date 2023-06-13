@@ -4,7 +4,6 @@
 https://github.com/glennrp/libpng/issues/481
 
 ## libtiff
-https://gitlab.com/libtiff/libtiff/-/issues/560
 
 https://gitlab.com/libtiff/libtiff/-/issues/573
 
