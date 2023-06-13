@@ -137,9 +137,9 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 ./tiffcrop -E right  -z 1,1,2048,2048:1,2049,2048,4097 -i -s $poc_file /tmp/foo
 ```
 # POC File
-[poc_of_3760]()
+[poc_of_3760](https://github.com/gandalf4a/crash_report/blob/main/libtiff/tiffcrop/extractContigSamplesShifted8bits/poc_of_3760)
 
-[poc_of_3773]()
+[poc_of_3773](https://github.com/gandalf4a/crash_report/blob/main/libtiff/tiffcrop/extractContigSamplesShifted8bits/poc_of_3773)
 
 # Credit
 Gandalf4a@QAXsrc
