@@ -170,11 +170,9 @@ SUMMARY: AddressSanitizer: SEGV string/../sysdeps/x86_64/multiarch/memmove-vec-u
 ```
 
 # POC File
-poc_offerflow
+[poc_offerflow_SEGV](https://github.com/gandalf4a/crash_report/blob/main/libtiff/tiffcrop/tif_unix.c/poc_offerflow_SEGV) 
 
-poc_SEGV 
-
-poc_UAF
+[poc_UAF](https://github.com/gandalf4a/crash_report/blob/main/libtiff/tiffcrop/tif_unix.c/poc_UAF)
 
 # Credit
 Gandalf4a@QAXsrc
