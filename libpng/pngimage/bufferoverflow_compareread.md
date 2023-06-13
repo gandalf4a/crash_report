@@ -87,7 +87,7 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 ```
 
 # POC File
-[poc_png_overflow](https://github.com/gandalf4a/crash_report/blob/main/poc_png_overflow.png)
+[poc_png_overflow](https://github.com/gandalf4a/crash_report/blob/main/libpng/pngimage/poc_png_overflow.png)
 
 # Credit
 ```
