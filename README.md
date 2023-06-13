@@ -2,7 +2,7 @@
 
 ## libpng
 ### pngimage
-##### 1_heap-buffer-overflow
+##### 1_heap-buffer-overflow_compare_read
 https://github.com/glennrp/libpng/issues/481
 
 ## libtiff
