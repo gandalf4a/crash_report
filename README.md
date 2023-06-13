@@ -8,7 +8,6 @@
         <td>位置</td>
         <td>函数</td>
         <td>类型</td>
-        <td>数量</td>
         <td>issue</td>
         <td>时间</td>
     </tr>
@@ -20,7 +19,6 @@
         <td>./contrib/libtests/pngimage.c:1249</td>
         <td>compare_read()</td>
         <td>heap-buffer-overflow</td>
-        <td>1</td>
         <td>https://github.com/glennrp/libpng/issues/481</td>
         <td>2023.6.14</td>
     </tr>
@@ -32,7 +30,6 @@
         <td>./libtiff/tif_unix.c:345</td>
         <td>_TIFFmemcpy()</td>
         <td>heap-buffer-overflow & heap-use-after-free & SIGSEGV</td>
-        <td>1</td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/573</td>
         <td rowspan="10">2023.5.11</td>        
     </tr>
@@ -40,7 +37,6 @@
         <td>./tools/tiffcrop.c:3773</td>
         <td rowspan="2">extractContigSamplesShifted8bits()</td>
         <td rowspan="9">heap-buffer-overflow</td>
-        <td rowspan="2">2</td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/563</td>
     </tr>
     <tr>
@@ -50,7 +46,6 @@
     <tr>
         <td>./tools/tiffcrop.c:3877</td>
         <td rowspan="2">extractContigSamplesShifted16bits()</td>
-        <td rowspan="2">2</td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/561</td>
     </tr>
     <tr>
@@ -60,7 +55,6 @@
     <tr>
         <td>./tools/tiffcrop.c:3982</td>
         <td rowspan="3">extractContigSamplesShifted24bits()</td>
-        <td rowspan="3">3</td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/565</td>
     </tr>
     <tr>
@@ -74,7 +68,6 @@
     <tr>
         <td>./tools/tiffcrop.c:4106</td>
         <td rowspan="2">extractContigSamplesShifted32bits()</td>
-        <td rowspan="2">5</td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/568</td>
     </tr>
     <tr>
@@ -89,33 +82,28 @@
         <td>./goo/GString.cc:119</td>
         <td>GString::resize(int)</td>
         <td rowspan="4">stack-overflow</td>
-        <td>1</td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=42378</td>
         <td rowspan="5">2022.12.26</td>
     </tr>
     </tr>
         <td>./xpdf/Stream.cc:795</td>
         <td>FileStream::copy()</td>
-        <td>1</td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=42376</td>
     </tr>
     </tr>
         <td>./xpdf/Object.cc:81</td>
         <td>Object::copy(Object*)</td>
-        <td>1</td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=42377</td>
     </tr>
     </tr>
         <td>./goo/gmem.cc:148</td>
         <td>gmalloc(int)</td>
-        <td>1</td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=42379</td>
     </tr>
     <tr>
         <td>./xpdf/TextOutputDev.cc:988</td>
         <td>TextLine::TextLine()</td>
-        <td rowspan="1">SIGSEGV</td>
-        <td>1</td>
+        <td>SIGSEGV</td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=44307</td>
     </tr>
 </table>
