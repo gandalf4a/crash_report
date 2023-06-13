@@ -1,6 +1,8 @@
 # issue:
-https://gitlab.com/libtiff/libtiff/-/issues/561
+https://gitlab.com/libtiff/libtiff/-/issues/561 
+
 https://gitlab.com/libtiff/libtiff/-/issues/563
+
 https://gitlab.com/libtiff/libtiff/-/issues/567
 
 # tiffcrop: heap-buffer-overflow in /tiff-4.5.0/tools/tiffcrop.c:3877,3773,3998 in extractContigSamplesShifted16bits
