@@ -1,15 +1,5 @@
 # crash_report
 
-|  产品   | 程序文件  | 代码文件| 函数| 漏洞类型|漏洞数量| url|
-|  ----  | ----  | ----  | ----  | ----  |----|----|
-| libpng  | pngimage |pngimage.c|compare_read|heap-buffer-overflow|1|https://github.com/glennrp/libpng/issues/481|
-|libtiff|liffcrop|tif_unix.c|TIFFmemcpy|heap-buffer-overflow & heap-use-after-free &  SIGSEGV|1|https://gitlab.com/libtiff/libtiff/-/issues/573|
-|||tiffcrop.c|extractContigSamplesShifted8bits|heap-buffer-overflow|2|https://gitlab.com/libtiff/libtiff/-/issues/563|
-|||||||https://gitlab.com/libtiff/libtiff/-/issues/562|
-||||extractContigSamplesShifted16bits|heap-buffer-overflow|2|https://gitlab.com/libtiff/libtiff/-/issues/563|
-||||extractContigSamplesShifted24bits|heap-buffer-overflow|2|https://gitlab.com/libtiff/libtiff/-/issues/563|
-||||extractContigSamplesShifted32bits|heap-buffer-overflow|2|https://gitlab.com/libtiff/libtiff/-/issues/563|
-
 ## libpng
 ### pngimage
 ##### 1_heap-buffer-overflow_compare_read
