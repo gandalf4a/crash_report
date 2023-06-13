@@ -26,7 +26,7 @@
     </tr>
     <tr>
         <td rowspan="10">libtiff</td>
-        <td rowspan="10">liffcrop</td>
+        <td rowspan="10">tiffcrop</td>
         <td rowspan="10">4.5.0</td>
         <td rowspan="10">https://gitlab.com/libtiff/libtiff</td>
         <td>./libtiff/tif_unix.c:345</td>
