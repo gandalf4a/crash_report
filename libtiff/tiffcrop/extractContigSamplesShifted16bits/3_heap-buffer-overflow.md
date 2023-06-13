@@ -198,6 +198,9 @@ Shadow byte legend (one shadow byte represents 8 application bytes):
 ```
 
 # POC File
+poc_of_3773
+poc_of_3877
+poc_of_3998
 
 # Credit
 Gandalf4a@QAXsrc
