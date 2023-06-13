@@ -29,7 +29,8 @@ SUMMARY: AddressSanitizer: stack-overflow (/home/user/xpdf-4.04/xpdf/pdftotext+0
 ==1601==ABORTING
 ```
 # Environment
-```Ubuntu 20.04.1 LTS (docker)
+```
+Ubuntu 20.04.1 LTS (docker)
 clang-10
 xpdf-4.04
 ```
