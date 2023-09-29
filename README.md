@@ -106,5 +106,16 @@
         <td>SIGSEGV</td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=44307</td>
     </tr>
+    <tr>
+        <td>Webkit</td>
+        <td>JavaScriptCore</td>
+        <td>commit 1242f2ee324a89ec535c86d2fe89a86b0e8a1e52 (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td>https://github.com/WebKit/WebKit.git</td>
+        <td>./Source/bmalloc/libpas/src/libpas/pas_debug_heap.h:105</td>
+        <td>pas_debug_heap_allocate()</td>
+        <td>memory leaks</td>
+        <td>https://bugs.webkit.org/show_bug.cgi?id=262370</td>
+        <td>2023.9.29</td>
+    </tr>
 </table>
 
