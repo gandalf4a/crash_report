@@ -12,6 +12,17 @@
         <td>time</td>
     </tr>
     <tr>
+        <td>JavaScript</td>
+        <td>jerry</td>
+        <td>commit a588e4966175a190ec6350b2a3689d30ed017ec9 (HEAD -> master, origin/master, origin/HEAD)</td>
+        <td>https://github.com/jerryscript-project/jerryscript</td>
+        <td> </td>
+        <td> </td>
+        <td>SEGV</td>
+        <td>https://github.com/jerryscript-project/jerryscript/issues/5101</td>
+        <td>2023.10.4</td>
+    </tr>
+    <tr>
         <td rowspan="2">Mozilla</td>
         <td rowspan="2">Spidermonkey</td>
         <td rowspan="2">commit b0d28aecd58cbd2db00974db2ef8456856169fb4 (HEAD -> master, origin/master, origin/HEAD)</td>
