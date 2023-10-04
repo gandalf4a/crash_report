@@ -10,7 +10,7 @@
         <td>time</td>
     </tr>
     <tr>
-        <td>JavaScript</td>
+        <td>jerryscript-project</td>
         <td>jerry</td>
         <td>commit a588e4966175a190ec6350b2a3689d30ed017ec9 (HEAD -> master, origin/master, origin/HEAD)</td>
         <td>https://github.com/jerryscript-project/jerryscript</td>
