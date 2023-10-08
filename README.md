@@ -10,6 +10,15 @@
         <td>time</td>
     </tr>
     <tr>
+        <td>tsMuxer</td>
+        <td>tsMuxer</td>
+        <td>commit 2539d074cd4da0547b97aedd8bc12252b973907c (HEAD -> master, tag: nightly-2023-10-05-01-55-56, origin/master, origin/HEAD)</td>
+        <td>https://github.com/justdan96/tsMuxer.git</td>
+        <td>SEGV</td>
+        <td>https://github.com/justdan96/tsMuxer/issues/783</td>
+        <td>2023.10.8</td>
+    </tr>
+    <tr>
         <td rowspan="2">jerryscript-project</td>
         <td rowspan="2">jerry</td>
         <td rowspan="2">commit a588e4966175a190ec6350b2a3689d30ed017ec9 (HEAD -> master, origin/master, origin/HEAD)</td>
