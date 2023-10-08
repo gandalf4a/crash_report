@@ -10,13 +10,17 @@
         <td>time</td>
     </tr>
     <tr>
-        <td>tsMuxer</td>
-        <td>tsMuxer</td>
-        <td>commit 2539d074cd4da0547b97aedd8bc12252b973907c (HEAD -> master, tag: nightly-2023-10-05-01-55-56, origin/master, origin/HEAD)</td>
-        <td>https://github.com/justdan96/tsMuxer.git</td>
+        <td rowspan="2">tsMuxer</td>
+        <td rowspan="2">tsMuxer</td>
+        <td rowspan="2">commit 2539d074cd4da0547b97aedd8bc12252b973907c (HEAD -> master, tag: nightly-2023-10-05-01-55-56, origin/master, origin/HEAD)</td>
+        <td rowspan="2">https://github.com/justdan96/tsMuxer.git</td>
         <td>SEGV</td>
         <td>https://github.com/justdan96/tsMuxer/issues/783</td>
-        <td>2023.10.8</td>
+        <td rowspan="2">2023.10.8</td>
+    </tr>
+    <tr>
+        <td>heap-buffer-overflow</td>
+        <td>https://github.com/justdan96/tsMuxer/issues/784</td>
     </tr>
     <tr>
         <td rowspan="2">jerryscript-project</td>
