@@ -10,6 +10,64 @@
         <td>time</td>
     </tr>
     <tr>
+        <td rowspan="16">gpac</td>
+        <td rowspan="16">MP4Box</td>
+        <td rowspan="16">2.3-DEV-rev566-g50c2ab06f-master</td>
+        <td rowspan="16">https://github.com/gpac/gpac.git</td>
+        <td>heap-use-after-free</td>
+        <td>https://github.com/gpac/gpac/issues/2611</td>
+        <td rowspan="16">2023.10.9</td>
+    </tr>
+    <tr>
+        <td>double-free</td>
+        <td>https://github.com/gpac/gpac/issues/2612</td>
+    </tr>
+    <tr>
+        <td>stack-buffer-overflow</td>
+        <td>https://github.com/gpac/gpac/issues/2613</td>
+    </tr>
+    <tr>
+        <td rowspan="6">heap-buffer-overflow</td>
+        <td>https://github.com/gpac/gpac/issues/2614</td>
+    </tr>
+    <tr>
+        <td>https://github.com/gpac/gpac/issues/2615</td>
+    </tr>
+    <tr>
+        <td>https://github.com/gpac/gpac/issues/2616</td>
+    </tr>
+    <tr>
+        <td>https://github.com/gpac/gpac/issues/2617</td>
+    </tr>
+    <tr>
+        <td>https://github.com/gpac/gpac/issues/2618</td>   
+    </tr>
+    <tr>     
+        <td>https://github.com/gpac/gpac/issues/2619</td>
+    </tr>
+    <tr>
+        <td rowspan="7">SEGV</td>
+        <td>https://github.com/gpac/gpac/issues/2620</td>
+    </tr>
+    <tr>
+        <td>https://github.com/gpac/gpac/issues/2621</td>
+    </tr>
+    <tr>
+        <td>https://github.com/gpac/gpac/issues/2622</td>
+    </tr>
+    <tr>
+        <td>https://github.com/gpac/gpac/issues/2623</td>
+    </tr>
+    <tr>
+        <td>https://github.com/gpac/gpac/issues/2624</td>
+    </tr>
+    <tr>
+        <td>https://github.com/gpac/gpac/issues/2625</td>
+    </tr>
+    <tr>
+        <td>https://github.com/gpac/gpac/issues/2626</td>
+    </tr>
+    <tr>
         <td rowspan="6">tsMuxer</td>
         <td rowspan="6">tsMuxer</td>
         <td rowspan="6">commit 2539d074cd4da0547b97aedd8bc12252b973907c (HEAD -> master, tag: nightly-2023-10-05-01-55-56, origin/master, origin/HEAD)</td>
