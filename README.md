@@ -10,20 +10,26 @@
         <td>time</td>
     </tr>
     <tr>
-        <td rowspan="3">tsMuxer</td>
-        <td rowspan="3">tsMuxer</td>
-        <td rowspan="3">commit 2539d074cd4da0547b97aedd8bc12252b973907c (HEAD -> master, tag: nightly-2023-10-05-01-55-56, origin/master, origin/HEAD)</td>
-        <td rowspan="3">https://github.com/justdan96/tsMuxer.git</td>
+        <td rowspan="5">tsMuxer</td>
+        <td rowspan="5">tsMuxer</td>
+        <td rowspan="5">commit 2539d074cd4da0547b97aedd8bc12252b973907c (HEAD -> master, tag: nightly-2023-10-05-01-55-56, origin/master, origin/HEAD)</td>
+        <td rowspan="5">https://github.com/justdan96/tsMuxer.git</td>
         <td>SEGV</td>
         <td>https://github.com/justdan96/tsMuxer/issues/783</td>
-        <td rowspan="3">2023.10.8</td>
+        <td rowspan="5">2023.10.8</td>
     </tr>
     <tr>
-        <td rowspan="2">heap-buffer-overflow</td>
+        <td rowspan="4">heap-buffer-overflow</td>
         <td>https://github.com/justdan96/tsMuxer/issues/784</td>
     </tr>
     <tr>
         <td>https://github.com/justdan96/tsMuxer/issues/785</td>
+    </tr>
+    <tr>
+        <td>https://github.com/justdan96/tsMuxer/issues/786</td>
+    </tr>
+    <tr>
+        <td>https://github.com/justdan96/tsMuxer/issues/787</td>
     </tr>
     <tr>
         <td rowspan="2">jerryscript-project</td>
