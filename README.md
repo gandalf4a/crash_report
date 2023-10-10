@@ -10,6 +10,30 @@
         <td>time</td>
     </tr>
     <tr>
+        <td rowspan="6">duktape</td>
+        <td rowspan="6">duk</td>
+        <td rowspan="6">commit 47eedc5d53cdab72c5933148496b91142d5f0940 (HEAD -> master, origin/master, origin/HEAD)​</td>
+        <td rowspan="6">https://github.com/svaarala/duktape.git</td>
+        <td rowspan="6">stack-overflow</td>
+        <td>https://github.com/svaarala/duktape/issues/2548</td>
+        <td rowspan="6">2023.10.11</td>
+    </tr>
+    <tr>
+        <td>https://github.com/svaarala/duktape/issues/2549</td>
+    </tr>
+    <tr>
+        <td>https://github.com/svaarala/duktape/issues/2550</td>
+    </tr>
+    <tr>
+        <td>https://github.com/svaarala/duktape/issues/2551</td>
+    </tr>
+    <tr>
+        <td>https://github.com/svaarala/duktape/issues/2552</td>
+    </tr>
+    <tr>
+        <td>https://github.com/svaarala/duktape/issues/2553</td>
+    </tr>
+    <tr>
         <td rowspan="16">gpac</td>
         <td rowspan="16">MP4Box</td>
         <td rowspan="16">2.3-DEV-rev566-g50c2ab06f-master</td>
