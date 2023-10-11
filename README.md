@@ -10,13 +10,13 @@
         <td>time</td>
     </tr>
     <tr>
-        <td rowspan="6">duktape</td>
-        <td rowspan="6">duk</td>
-        <td rowspan="6">commit 47eedc5d53cdab72c5933148496b91142d5f0940 (HEAD -> master, origin/master, origin/HEAD)​</td>
-        <td rowspan="6">https://github.com/svaarala/duktape.git</td>
-        <td rowspan="6">stack-overflow</td>
+        <td rowspan="8">duktape</td>
+        <td rowspan="8">duk</td>
+        <td rowspan="8">commit 47eedc5d53cdab72c5933148496b91142d5f0940 (HEAD -> master, origin/master, origin/HEAD)​</td>
+        <td rowspan="8">https://github.com/svaarala/duktape.git</td>
+        <td rowspan="7">stack-overflow</td>
         <td>https://github.com/svaarala/duktape/issues/2548</td>
-        <td rowspan="6">2023.10.11</td>
+        <td rowspan="8">2023.10.11</td>
     </tr>
     <tr>
         <td>https://github.com/svaarala/duktape/issues/2549</td>
@@ -32,6 +32,13 @@
     </tr>
     <tr>
         <td>https://github.com/svaarala/duktape/issues/2553</td>
+    </tr>
+    <tr>
+        <td>6: https://www.huntr.dev/bounties/444d8c24-c2b0-4a48-b076-f964c6ce5482</td>
+    </tr>
+    <tr>
+        <td>SEGV</td>
+        <td>2: https://www.huntr.dev/bounties/e2a1370b-fe6d-42cc-be51-fa9d25a6369d</td>
     </tr>
     <tr>
         <td rowspan="16">gpac</td>
@@ -92,16 +99,16 @@
         <td>https://github.com/gpac/gpac/issues/2626</td>
     </tr>
     <tr>
-        <td rowspan="6">tsMuxer</td>
-        <td rowspan="6">tsMuxer</td>
-        <td rowspan="6">commit 2539d074cd4da0547b97aedd8bc12252b973907c (HEAD -> master, tag: nightly-2023-10-05-01-55-56, origin/master, origin/HEAD)</td>
-        <td rowspan="6">https://github.com/justdan96/tsMuxer.git</td>
+        <td rowspan="7">tsMuxer</td>
+        <td rowspan="7">tsMuxer</td>
+        <td rowspan="7">commit 2539d074cd4da0547b97aedd8bc12252b973907c (HEAD -> master, tag: nightly-2023-10-05-01-55-56, origin/master, origin/HEAD)</td>
+        <td rowspan="7">https://github.com/justdan96/tsMuxer.git</td>
         <td>SEGV</td>
         <td>https://github.com/justdan96/tsMuxer/issues/783</td>
         <td rowspan="6">2023.10.8</td>
     </tr>
     <tr>
-        <td rowspan="5">heap-buffer-overflow</td>
+        <td rowspan="6">heap-buffer-overflow</td>
         <td>https://github.com/justdan96/tsMuxer/issues/784</td>
     </tr>
     <tr>
@@ -115,6 +122,10 @@
     </tr>
     <tr>
         <td>https://github.com/justdan96/tsMuxer/issues/788</td>
+    </tr>
+    <tr>
+        <td>2: https://www.huntr.dev/bounties/0a491f4d-b842-4cb9-aad6-5781fbea3320/</td>
+        <td>2023.10.11</td>
     </tr>
     <tr>
         <td rowspan="2">jerryscript-project</td>
