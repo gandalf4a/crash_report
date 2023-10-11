@@ -41,25 +41,36 @@
         <td>2: https://www.huntr.dev/bounties/e2a1370b-fe6d-42cc-be51-fa9d25a6369d</td>
     </tr>
     <tr>
-        <td rowspan="16">gpac</td>
-        <td rowspan="16">MP4Box</td>
-        <td rowspan="16">2.3-DEV-rev566-g50c2ab06f-master</td>
-        <td rowspan="16">https://github.com/gpac/gpac.git</td>
-        <td>heap-use-after-free</td>
+        <td rowspan="22">gpac</td>
+        <td rowspan="22">MP4Box</td>
+        <td rowspan="22">2.3-DEV-rev566-g50c2ab06f-master</td>
+        <td rowspan="22">https://github.com/gpac/gpac.git</td>
+        <td rowspan="2">heap-use-after-free</td>
         <td>https://github.com/gpac/gpac/issues/2611</td>
-        <td rowspan="16">2023.10.9</td>
+        <td>2023.10.9</td>
+    </tr>
+    <tr>
+        <td>https://www.huntr.dev/bounties/e55961c9-ad52-437b-b796-9546a8f124e7/</td>
+        <td>2023.10.12</td>
     </tr>
     <tr>
         <td>double-free</td>
         <td>https://github.com/gpac/gpac/issues/2612</td>
+        <td>2023.10.9</td>
     </tr>
     <tr>
-        <td>stack-buffer-overflow</td>
+        <td rowspan="2">stack-buffer-overflow</td>
         <td>https://github.com/gpac/gpac/issues/2613</td>
+        <td>2023.10.9</td>
     </tr>
     <tr>
-        <td rowspan="6">heap-buffer-overflow</td>
+        <td>2: https://www.huntr.dev/bounties/f7f9171e-661f-471f-aa2c-fedd23ff1b52/</td>
+        <td>2023.10.12</td>
+    </tr>
+    <tr>
+        <td rowspan="7">heap-buffer-overflow</td>
         <td>https://github.com/gpac/gpac/issues/2614</td>
+        <td rowspan="6">2023.10.9</td>
     </tr>
     <tr>
         <td>https://github.com/gpac/gpac/issues/2615</td>
@@ -76,9 +87,14 @@
     <tr>     
         <td>https://github.com/gpac/gpac/issues/2619</td>
     </tr>
+    <tr>     
+        <td>4: https://www.huntr.dev/bounties/b514352a-d64b-4230-936d-612eb96ce105/</td>
+        <td>2023.10.12</td>
+    </tr>
     <tr>
-        <td rowspan="7">SEGV</td>
+        <td rowspan="8">SEGV</td>
         <td>https://github.com/gpac/gpac/issues/2620</td>
+        <td rowspan="7">2023.10.9</td>
     </tr>
     <tr>
         <td>https://github.com/gpac/gpac/issues/2621</td>
@@ -97,6 +113,20 @@
     </tr>
     <tr>
         <td>https://github.com/gpac/gpac/issues/2626</td>
+    </tr>
+    <tr>
+        <td>3: https://www.huntr.dev/bounties/0064cf76-ece1-495d-82b4-e4a1bebeb28e/</td>
+        <td>2023.10.12</td>
+    </tr>
+    <tr>
+        <td>memcpy-param-overlap</td>
+        <td>https://www.huntr.dev/bounties/d3290105-c964-4419-82d9-89782b3b2796/</td>
+        <td>2023.10.12</td>
+    </tr>
+    <tr>
+        <td>FPE</td>
+        <td>2: https://www.huntr.dev/bounties/4d3dda71-1d2a-42ba-8f2e-ef83db85f8a2/</td>
+        <td>2023.10.12</td>
     </tr>
     <tr>
         <td rowspan="7">tsMuxer</td>
@@ -128,16 +158,21 @@
         <td>2023.10.11</td>
     </tr>
     <tr>
-        <td rowspan="2">jerryscript-project</td>
-        <td rowspan="2">jerry</td>
-        <td rowspan="2">commit a588e4966175a190ec6350b2a3689d30ed017ec9 (HEAD -> master, origin/master, origin/HEAD)</td>
-        <td rowspan="2">https://github.com/jerryscript-project/jerryscript</td>
+        <td rowspan="3">jerryscript-project</td>
+        <td rowspan="3">jerry</td>
+        <td rowspan="3">commit a588e4966175a190ec6350b2a3689d30ed017ec9 (HEAD -> master, origin/master, origin/HEAD)</td>
+        <td rowspan="3">https://github.com/jerryscript-project/jerryscript</td>
         <td rowspan="2">SEGV</td>
         <td>https://github.com/jerryscript-project/jerryscript/issues/5101</td>
         <td rowspan="2">2023.10.4</td>
     </tr>
     <tr>
         <td>https://github.com/jerryscript-project/jerryscript/issues/5102</td>
+    </tr>
+    <tr>
+        <td>global-buffer-overflow</td>
+        <td>https://www.huntr.dev/bounties/509c05d1-c0a9-4b4e-90f4-def498ab2ae9/</td>
+        <td>2023.10.11</td>
     </tr>
     <tr>
         <td rowspan="2">Mozilla</td>
