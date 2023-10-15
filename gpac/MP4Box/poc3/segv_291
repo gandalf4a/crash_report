@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" profiles="urn:mpeg:dash:profile:full:2011" minBufferTime="PT1.000000S" type="static" mediaPresentationDuration="PT00H00M00.000S">
+ <ProgramInformation moreInformationURL="http://gpac.io">
+  <Title>dashcast.mpd</Title>
+ </ProgramInformation>
+ <Period start="PT0H0M0.000S" id="P1">
+  <AdaptationSet segmentAlignment="true" bitstreamSwitching="false">
+   <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" valre=2"/>
+   <SegmentTemplate timescale="8000" duration="7168" media="$RepresentationID$_$Number$_gpac.m4s" startNumber="1" initialization="$RepresentationID$_init_gpac.mp4"/>
+   <Representation id="a1" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="8000" startWithSAP="1" bandwidth="128000">
+   </Representation>
+   <Representation id="a2" mimeType="audio/mp4" codecs="mp4a.40.2" audioSamplingRate="8000" startWithSAP="1" bandwidth="256000">
+   </Representation>
+  </AdaptationSet>
+  <AdaptationSet segmentAlignment="true" bitstreamSwitching="false">
+   <SegmentTemplate timescale="29" duration="29" media="$RepresentationID$_$Number$_gpac.m4s" startNumber="1" initialization="$RepresentationID$_init_gpac.mp4"/>
+   <Representation id="v1" mimeType="video/mp4" codecs="avc1.64001f" width="1280" height="720" frameRate="29" sar="1:1" startWithSAP="1" bandwidth="800000">
+   </Representation>
+   <Representation id="v2" mimeType="video/mp4" codecs="avc1.64001e" width="640" height="360" frameRate="29" sar="1:1" startWithSAP="1" bandwidth="400000">
+   </Representation>
+  </AdaptationSet>
+ </Period>
+</MPD>
