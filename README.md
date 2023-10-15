@@ -44,10 +44,10 @@
         <td rowspan="2">heap-use-after-free</td>
         <td>https://github.com/gpac/gpac/issues/2611</td>
         <td>2023.10.9</td>
-        <td rowspan="22">gpac</td>
-        <td rowspan="22">MP4Box</td>
-        <td rowspan="22">2.3-DEV-rev566-g50c2ab06f-master</td>
-        <td rowspan="22">https://github.com/gpac/gpac.git</td>
+        <td rowspan="23">gpac</td>
+        <td rowspan="23">MP4Box</td>
+        <td rowspan="23">2.3-DEV-rev566-g50c2ab06f-master</td>
+        <td rowspan="23">https://github.com/gpac/gpac.git</td>
     </tr>
     <tr>
         <td>https://www.huntr.dev/bounties/e55961c9-ad52-437b-b796-9546a8f124e7/</td>
@@ -92,9 +92,9 @@
         <td>2023.10.12</td>
     </tr>
     <tr>
-        <td rowspan="8">SEGV</td>
+        <td rowspan="9">SEGV</td>
         <td>https://github.com/gpac/gpac/issues/2620</td>
-        <td rowspan="7">2023.10.9</td>
+        <td rowspan="8">2023.10.9</td>
     </tr>
     <tr>
         <td>https://github.com/gpac/gpac/issues/2621</td>
@@ -117,6 +117,10 @@
     <tr>
         <td>3: https://www.huntr.dev/bounties/0064cf76-ece1-495d-82b4-e4a1bebeb28e/</td>
         <td>2023.10.12</td>
+    </tr>
+    <tr>
+        <td>3: https://huntr.dev/bounties/dd176822-178f-43b0-bbeb-20390cdb623e/</td>
+        <td>2023.10.15</td>
     </tr>
     <tr>
         <td>memcpy-param-overlap</td>
