@@ -2,6 +2,7 @@
 <table>
     <tr>
         <td>type</td>
+        <td>CVE</td>
         <td>issue</td>
         <td>time</td>
         <td>project</td>
@@ -11,6 +12,7 @@
     </tr>
     <tr>
         <td rowspan="7">stack-overflow</td>
+        <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2548</td>
         <td rowspan="8">2023.10.11</td>
         <td rowspan="8">duktape</td>
@@ -19,29 +21,37 @@
         <td rowspan="8">https://github.com/svaarala/duktape.git</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2549</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2550</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2551</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2552</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2553</td>
     </tr>
     <tr>
+        <td ></td>
         <td>6: https://www.huntr.dev/bounties/444d8c24-c2b0-4a48-b076-f964c6ce5482</td>
     </tr>
     <tr>
         <td>SEGV</td>
+        <td ></td>
         <td>2: https://www.huntr.dev/bounties/e2a1370b-fe6d-42cc-be51-fa9d25a6369d</td>
     </tr>
     <tr>
         <td rowspan="2">heap-use-after-free</td>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2611</td>
         <td>2023.10.9</td>
         <td rowspan="23">gpac</td>
@@ -50,90 +60,113 @@
         <td rowspan="23">https://github.com/gpac/gpac.git</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://www.huntr.dev/bounties/e55961c9-ad52-437b-b796-9546a8f124e7/</td>
         <td>2023.10.12</td>
     </tr>
     <tr>
         <td>double-free</td>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2612</td>
         <td>2023.10.9</td>
     </tr>
     <tr>
         <td rowspan="2">stack-buffer-overflow</td>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2613</td>
         <td>2023.10.9</td>
     </tr>
     <tr>
+        <td ></td>
         <td>2: https://www.huntr.dev/bounties/f7f9171e-661f-471f-aa2c-fedd23ff1b52/</td>
         <td>2023.10.12</td>
     </tr>
     <tr>
         <td rowspan="7">heap-buffer-overflow</td>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2614</td>
         <td rowspan="6">2023.10.9</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2615</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2616</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2617</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2618</td>   
     </tr>
     <tr>     
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2619</td>
     </tr>
     <tr>     
+        <td ></td>
         <td>4: https://www.huntr.dev/bounties/b514352a-d64b-4230-936d-612eb96ce105/</td>
         <td>2023.10.12</td>
     </tr>
     <tr>
         <td rowspan="9">SEGV</td>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2620</td>
         <td rowspan="8">2023.10.9</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2621</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2622</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2623</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2624</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2625</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/gpac/gpac/issues/2626</td>
     </tr>
     <tr>
+        <td>CVE-2023-5595</td>
         <td>3: https://www.huntr.dev/bounties/0064cf76-ece1-495d-82b4-e4a1bebeb28e/</td>
         <td>2023.10.12</td>
     </tr>
     <tr>
+        <td ></td>
         <td>3: https://huntr.dev/bounties/dd176822-178f-43b0-bbeb-20390cdb623e/</td>
         <td>2023.10.15</td>
     </tr>
     <tr>
         <td>memcpy-param-overlap</td>
+        <td ></td>
         <td>https://www.huntr.dev/bounties/d3290105-c964-4419-82d9-89782b3b2796/</td>
         <td>2023.10.12</td>
     </tr>
     <tr>
         <td>FPE</td>
+        <td ></td>
         <td>2: https://www.huntr.dev/bounties/4d3dda71-1d2a-42ba-8f2e-ef83db85f8a2/</td>
         <td>2023.10.12</td>
     </tr>
     <tr>
         <td>SEGV</td>
+        <td ></td>
         <td>https://github.com/justdan96/tsMuxer/issues/783</td>
         <td rowspan="6">2023.10.8</td>
         <td rowspan="7">tsMuxer</td>
@@ -143,26 +176,33 @@
     </tr>
     <tr>
         <td rowspan="6">heap-buffer-overflow</td>
+        <td ></td>
         <td>https://github.com/justdan96/tsMuxer/issues/784</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/justdan96/tsMuxer/issues/785</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/justdan96/tsMuxer/issues/786</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/justdan96/tsMuxer/issues/787</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/justdan96/tsMuxer/issues/788</td>
     </tr>
     <tr>
+        <td ></td>
         <td>2: https://www.huntr.dev/bounties/0a491f4d-b842-4cb9-aad6-5781fbea3320/</td>
         <td>2023.10.11</td>
     </tr>
     <tr>
         <td rowspan="2">SEGV</td>
+        <td ></td>
         <td>https://github.com/jerryscript-project/jerryscript/issues/5101</td>
         <td rowspan="2">2023.10.4</td>
         <td rowspan="3">jerryscript-project</td>
@@ -171,15 +211,18 @@
         <td rowspan="3">https://github.com/jerryscript-project/jerryscript</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://github.com/jerryscript-project/jerryscript/issues/5102</td>
     </tr>
     <tr>
         <td>global-buffer-overflow</td>
+        <td ></td>
         <td>https://www.huntr.dev/bounties/509c05d1-c0a9-4b4e-90f4-def498ab2ae9/</td>
         <td>2023.10.11</td>
     </tr>
     <tr>
         <td rowspan="2">SEGV</td>
+        <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1856649</td>
         <td rowspan="2">2023.10.3</td>
         <td rowspan="2">Mozilla</td>
@@ -188,10 +231,12 @@
         <td rowspan="2">https://github.com/mozilla/gecko-dev</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1856646</td>
     </tr>
     <tr>
         <td>memory leaks</td>
+        <td ></td>
         <td>https://bugs.webkit.org/show_bug.cgi?id=262370</td>
         <td>2023.9.29</td>
         <td>Webkit</td>
@@ -201,6 +246,7 @@
     </tr>
     <tr>
         <td>heap-buffer-overflow</td>
+        <td ></td>
         <td>https://github.com/glennrp/libpng/issues/481</td>
         <td>2023.6.14</td>
         <td>libpng</td>
@@ -210,6 +256,7 @@
     </tr>
     <tr>
         <td>heap-buffer-overflow & heap-use-after-free & SIGSEGV</td>
+        <td ></td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/573</td>
         <td rowspan="10">2023.5.11</td>        
         <td rowspan="10">libtiff</td>
@@ -219,34 +266,44 @@
     </tr>
     <tr>
         <td rowspan="9">heap-buffer-overflow</td>
+        <td ></td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/563</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/562</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/561</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/564</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/565</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/566</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/567</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/568</td>
     </tr>
     <tr>
+        <td ></td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/569</td>
     </tr>
     <tr>
         <td rowspan="4">stack-overflow</td>
+        <td ></td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=42378</td>
         <td rowspan="5">2022.12.26</td>
         <td rowspan="5">xpdfreader</td>
@@ -255,16 +312,20 @@
         <td rowspan="5">https://dl.xpdfreader.com/xpdf-latest.tar.gz</td>
     </tr>
     </tr>
+        <td ></td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=42376</td>
     </tr>
     </tr>
+        <td ></td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=42377</td>
     </tr>
     </tr>
+        <td ></td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=42379</td>
     </tr>
     <tr>
         <td>SIGSEGV</td>
+        <td ></td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=44307</td>
     </tr>
 </table>
