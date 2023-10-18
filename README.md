@@ -126,7 +126,7 @@
         <td rowspan="9">SEGV</td>
         <td ></td>
         <td>https://github.com/gpac/gpac/issues/2620</td>
-        <td rowspan="8">2023.10.9</td>
+        <td rowspan="7">2023.10.9</td>
     </tr>
     <tr>
         <td ></td>
