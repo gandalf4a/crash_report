@@ -11,6 +11,16 @@
         <td>source</td>
     </tr>
     <tr>
+        <td>heap-buffer-overflow</td>
+        <td ></td>
+        <td>https://huntr.dev/bounties/bbfe1f76-8fa1-4a8c-909d-65b16e970be0</td>
+        <td>2023.10.18</td>
+        <td>radare2</td>
+        <td>r2</td>
+        <td>git.5.8.8-691-gb2de2288d8</td>
+        <td>https://github.com/radareorg/radare2.git</td>
+    </tr>
+    <tr>
         <td rowspan="7">stack-overflow</td>
         <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2548</td>
