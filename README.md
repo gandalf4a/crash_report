@@ -15,10 +15,20 @@
         <td ></td>
         <td>https://huntr.dev/bounties/bbfe1f76-8fa1-4a8c-909d-65b16e970be0</td>
         <td>2023.10.18</td>
-        <td>radare2</td>
-        <td>r2</td>
-        <td>git.5.8.8-691-gb2de2288d8</td>
-        <td>https://github.com/radareorg/radare2.git</td>
+        <td rowspan="3">radare2</td>
+        <td rowspan="3">r2</td>
+        <td rowspan="3">git.5.8.8-691-gb2de2288d8</td>
+        <td rowspan="3">https://github.com/radareorg/radare2.git</td>
+    </tr>
+    <tr>
+        <td rowspan="2">global-buffer-overflow</td>
+        <td ></td>
+        <td>https://github.com/radareorg/radare2/issues/22333</td>
+        <td rowspan="2">2023.10.21</td>
+    </tr>
+    <tr>
+        <td ></td>
+        <td>https://github.com/radareorg/radare2/issues/22334</td>
     </tr>
     <tr>
         <td rowspan="7">stack-overflow</td>
