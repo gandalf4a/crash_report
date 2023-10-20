@@ -12,7 +12,7 @@
     </tr>
     <tr>
         <td>heap-buffer-overflow</td>
-        <td ></td>
+        <td >CVE-2023-5686</td>
         <td>https://huntr.dev/bounties/bbfe1f76-8fa1-4a8c-909d-65b16e970be0</td>
         <td>2023.10.18</td>
         <td rowspan="3">radare2</td>
