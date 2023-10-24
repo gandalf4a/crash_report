@@ -241,18 +241,24 @@
         <td>2023.10.11</td>
     </tr>
     <tr>
-        <td rowspan="2">SEGV</td>
+        <td rowspan="3">SEGV</td>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1856649</td>
         <td rowspan="2">2023.10.3</td>
-        <td rowspan="2">Mozilla</td>
-        <td rowspan="2">Spidermonkey</td>
+        <td rowspan="3">Mozilla</td>
+        <td rowspan="3">Spidermonkey</td>
         <td rowspan="2">commit b0d28aecd58cbd2db00974db2ef8456856169fb4 (HEAD -> master, origin/master, origin/HEAD)</td>
-        <td rowspan="2">https://github.com/mozilla/gecko-dev</td>
+        <td rowspan="3">https://github.com/mozilla/gecko-dev</td>
     </tr>
     <tr>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1856646</td>
+    </tr>
+    <tr>
+        <td ></td>
+        <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1860721</td>
+        <td >2023.10.24</td>
+        <td >commit 81f368dab93fff035ce7fcc376e16990e89dd5ec (HEAD -> master, origin/master, origin/HEAD)</td>
     </tr>
     <tr>
         <td>memory leaks</td>
