@@ -11,6 +11,16 @@
         <td>source</td>
     </tr>
     <tr>
+        <td>SEGV</td>
+        <td ></td>
+        <td>https://forum.videolan.org/viewtopic.php?t=163396</td>
+        <td>2023.10.25</td>
+        <td rowspan="1">VLC</td>
+        <td rowspan="1">vlc-static</td>
+        <td rowspan="1">3.0.19</td>
+        <td rowspan="1">https://www.videolan.org/vlc/</td>
+    </tr>
+    <tr>
         <td>heap-buffer-overflow</td>
         <td >CVE-2023-5686</td>
         <td>https://huntr.dev/bounties/bbfe1f76-8fa1-4a8c-909d-65b16e970be0</td>
