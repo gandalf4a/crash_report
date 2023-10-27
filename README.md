@@ -21,14 +21,19 @@
         <td rowspan="1">https://www.videolan.org/vlc/</td>
     </tr>
     <tr>
-        <td>heap-buffer-overflow</td>
+        <td rowspan="2">heap-buffer-overflow</td>
         <td >CVE-2023-5686</td>
         <td>https://huntr.dev/bounties/bbfe1f76-8fa1-4a8c-909d-65b16e970be0</td>
         <td>2023.10.18</td>
-        <td rowspan="3">radare2</td>
-        <td rowspan="3">r2</td>
-        <td rowspan="3">git.5.8.8-691-gb2de2288d8</td>
-        <td rowspan="3">https://github.com/radareorg/radare2.git</td>
+        <td rowspan="4">radare2</td>
+        <td rowspan="4">r2/rabin2</td>
+        <td rowspan="4">git.5.8.8-691-gb2de2288d8</td>
+        <td rowspan="4">https://github.com/radareorg/radare2.git</td>
+    </tr>
+    <tr>
+        <td ></td>
+        <td>https://github.com/radareorg/radare2/issues/22349</td>
+        <td>2023.10.27</td>
     </tr>
     <tr>
         <td rowspan="2">global-buffer-overflow</td>
