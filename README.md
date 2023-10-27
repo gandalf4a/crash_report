@@ -37,12 +37,12 @@
     </tr>
     <tr>
         <td rowspan="2">global-buffer-overflow</td>
-        <td ></td>
+        <td >CVE-2023-46569</td>
         <td>https://github.com/radareorg/radare2/issues/22333</td>
         <td rowspan="2">2023.10.21</td>
     </tr>
     <tr>
-        <td ></td>
+        <td >CVE-2023-46570</td>
         <td>https://github.com/radareorg/radare2/issues/22334</td>
     </tr>
     <tr>
