@@ -31,7 +31,7 @@
         <td rowspan="4">https://github.com/radareorg/radare2.git</td>
     </tr>
     <tr>
-        <td ></td>
+        <td >CVE-2023-47016</td>
         <td>https://github.com/radareorg/radare2/issues/22349</td>
         <td>2023.10.27</td>
     </tr>
