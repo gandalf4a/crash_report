@@ -11,6 +11,16 @@
         <td>source</td>
     </tr>
     <tr>
+        <td rowspan="1">heap-use-after-free</td>
+        <td ></td>
+        <td>https://github.com/vim/vim/security/advisories/GHSA-c8qm-x72m-q53q</td>
+        <td rowspan="1">2023.11.20</td>
+        <td rowspan="1">vim</td>
+        <td rowspan="1">vim</td>
+        <td rowspan="1">v9.0.2034</td>
+        <td rowspan="1">https://github.com/vim/vim/</td>
+    </tr>
+    <tr>
         <td rowspan="5">SEGV</td>
         <td ></td>
         <td>https://security.apple.com/reports/OE1924480424134</td>
