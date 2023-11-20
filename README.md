@@ -11,14 +11,30 @@
         <td>source</td>
     </tr>
     <tr>
-        <td>SEGV</td>
+        <td rowspan="5">SEGV</td>
+        <td ></td>
+        <td>https://security.apple.com/reports/OE1924480424134</td>
+        <td rowspan="5">2023.11.20</td>
+        <td rowspan="5">macOS</td>
+        <td rowspan="5">libate.dylib</td>
+        <td rowspan="5">macOS 13.3</td>
+        <td rowspan="5">https://www.apple.com/</td>
+    </tr>
+    <tr>
+        <td ></td>
+        <td>https://security.apple.com/reports/OE1924480845324</td>
+    </tr>
+    <tr>
         <td ></td>
         <td>https://security.apple.com/reports/OE1924480429154</td>
-        <td>2023.11.20</td>
-        <td rowspan="1">macOS</td>
-        <td rowspan="1">libate.dylib</td>
-        <td rowspan="1">macOS 13.3</td>
-        <td rowspan="1">https://www.apple.com/</td>
+    </tr>
+    <tr>
+        <td ></td>
+        <td>https://security.apple.com/reports/OE1924480517883</td>
+    </tr>
+    <tr>
+        <td ></td>
+        <td>https://security.apple.com/reports/OE1924480320443</td>
     </tr>
     <tr>
         <td>SEGV</td>
