@@ -13,6 +13,16 @@
     <tr>
         <td>SEGV</td>
         <td ></td>
+        <td>https://security.apple.com/reports/OE1924480429154</td>
+        <td>2023.11.20</td>
+        <td rowspan="1">macOS</td>
+        <td rowspan="1">libate.dylib</td>
+        <td rowspan="1">macOS 13.3</td>
+        <td rowspan="1">https://www.apple.com/</td>
+    </tr>
+    <tr>
+        <td>SEGV</td>
+        <td ></td>
         <td>https://forum.videolan.org/viewtopic.php?t=163396</td>
         <td>2023.10.25</td>
         <td rowspan="1">VLC</td>
