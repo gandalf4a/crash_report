@@ -12,7 +12,7 @@
     </tr>
     <tr>
         <td rowspan="1">heap-use-after-free</td>
-        <td ></td>
+        <td >CVE-2023-48706</td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-c8qm-x72m-q53q</td>
         <td rowspan="1">2023.11.20</td>
         <td rowspan="1">vim</td>
