@@ -21,14 +21,14 @@
         <td rowspan="1">https://github.com/vim/vim/</td>
     </tr>
     <tr>
-        <td rowspan="5">SEGV</td>
+        <td rowspan="6">SEGV</td>
         <td ></td>
         <td>https://security.apple.com/reports/OE1924480424134</td>
         <td rowspan="5">2023.11.20</td>
-        <td rowspan="5">macOS</td>
-        <td rowspan="5">libate.dylib</td>
-        <td rowspan="5">macOS 13.3</td>
-        <td rowspan="5">https://www.apple.com/</td>
+        <td rowspan="6">macOS</td>
+        <td rowspan="6">libate.dylib</td>
+        <td rowspan="6">macOS 13.3</td>
+        <td rowspan="6">https://www.apple.com/</td>
     </tr>
     <tr>
         <td ></td>
@@ -45,6 +45,11 @@
     <tr>
         <td ></td>
         <td>https://security.apple.com/reports/OE1924480320443</td>
+    </tr>
+    <tr>
+        <td ></td>
+        <td>https://security.apple.com/reports/OE1924500326942</td>
+        <td rowspan="1">2023.11.25</td>
     </tr>
     <tr>
         <td>SEGV</td>
