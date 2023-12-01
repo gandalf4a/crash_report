@@ -11,6 +11,16 @@
         <td>source</td>
     </tr>
     <tr>
+        <td rowspan="1"></td>
+        <td ></td>
+        <td>https://bugs.chromium.org/p/chromium/issues/detail?id=1506948</td>
+        <td rowspan="1">2023.12.1</td>
+        <td rowspan="1">Chromium</td>
+        <td rowspan="1">V8</td>
+        <td rowspan="1">commit 8074952a2a6bb804c5028e37138da05c09ac208c (HEAD, origin/main, origin/HEAD)</td>
+        <td rowspan="1">https://chromium.googlesource.com/chromium/</td>
+    </tr>
+    <tr>
         <td rowspan="4">SEGV</td>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1856649</td>
