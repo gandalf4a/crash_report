@@ -62,7 +62,7 @@
         <td rowspan="5">2023.11.20</td>
         <td rowspan="6">macOS</td>
         <td rowspan="6">libate.dylib</td>
-        <td rowspan="6">macOS 13.3</td>
+        <td rowspan="6">macOS 13.6</td>
         <td rowspan="6">https://www.apple.com/</td>
     </tr>
     <tr>
