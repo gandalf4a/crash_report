@@ -21,14 +21,14 @@
         <td rowspan="1">https://chromium.googlesource.com/chromium/</td>
     </tr>
     <tr>
-        <td rowspan="4">SEGV</td>
+        <td rowspan="5">SEGV</td>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1856649</td>
         <td rowspan="2">2023.10.3</td>
-        <td rowspan="4">Mozilla</td>
-        <td rowspan="4">Spidermonkey</td>
+        <td rowspan="5">Mozilla</td>
+        <td rowspan="5">Spidermonkey</td>
         <td rowspan="2">commit b0d28aecd58cbd2db00974db2ef8456856169fb4 (HEAD -> master, origin/master, origin/HEAD)</td>
-        <td rowspan="4">https://github.com/mozilla/gecko-dev</td>
+        <td rowspan="5">https://github.com/mozilla/gecko-dev</td>
     </tr>
     <tr>
         <td ></td>
@@ -43,7 +43,12 @@
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1867471</td>
         <td >2023.11.30</td>
-        <td >commit 6eb2ebcafb1b4a8576eb513e6cd2c61e3f3ae6dc (HEAD -> master, origin/master, origin/HEAD)</td>
+        <td rowspan="2">commit 6eb2ebcafb1b4a8576eb513e6cd2c61e3f3ae6dc (HEAD -> master, origin/master, origin/HEAD)</td>
+    </tr>
+    </tr>
+        <td ></td>
+        <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1868095</td>
+        <td >2023.12.4</td>
     </tr>
     <tr>
         <td rowspan="1">heap-use-after-free</td>
