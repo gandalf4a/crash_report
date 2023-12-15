@@ -11,6 +11,16 @@
         <td>source</td>
     </tr>
     <tr>
+        <td rowspan="1">global-buffer-overflow</td>
+        <td ></td>
+        <td>https://github.com/radareorg/radare2/issues/22507</td>
+        <td rowspan="1">2023.12.15</td>
+        <td rowspan="1">radare2</td>
+        <td rowspan="1">r2</td>
+        <td rowspan="1">5.8.9 31617</td>
+        <td rowspan="1">https://github.com/radareorg/radare2</td>
+    </tr>
+    <tr>
         <td rowspan="1"></td>
         <td ></td>
         <td>https://bugs.chromium.org/p/chromium/issues/detail?id=1506948</td>
