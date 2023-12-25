@@ -64,6 +64,7 @@
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1871833</td>
         <td >2023.12.25</td>
+        <td rowspan="1">commit 05178ae3d8ed27d47b340094de52bd3f572a5e1d (HEAD -> master, origin/master, origin/HEAD)</td>
     </tr>
     <tr>
         <td rowspan="1">heap-use-after-free</td>
