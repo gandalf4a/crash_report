@@ -21,7 +21,7 @@
         <td rowspan="1">https://github.com/ImageMagick/ImageMagick</td>
     </tr>
     <tr>
-        <td rowspan="1">heap-buffer-overflow</td>
+        <td rowspan="1">global-buffer-overflow</td>
         <td ></td>
         <td>https://github.com/radareorg/radare2/issues/22507</td>
         <td rowspan="1">2023.12.15</td>
@@ -31,7 +31,7 @@
         <td rowspan="2">https://github.com/radareorg/radare2</td>
     </tr>
     <tr>
-        <td rowspan="1">global-buffer-overflow</td>
+        <td rowspan="1">heap-buffer-overflow</td>
         <td ></td>
         <td>https://github.com/radareorg/radare2/issues/22523</td>
         <td rowspan="1">2024.1.2</td>
