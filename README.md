@@ -13,6 +13,16 @@
     <tr>
         <td rowspan="1">global-buffer-overflow</td>
         <td ></td>
+        <td>https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-jcc2-fr99-q3qh</td>
+        <td rowspan="1">2024.1.2</td>
+        <td rowspan="1">ImageMagick</td>
+        <td rowspan="1">magick</td>
+        <td rowspan="1">7.1.1-25 (Beta)</td>
+        <td rowspan="1">https://github.com/ImageMagick/ImageMagick</td>
+    </tr>
+    <tr>
+        <td rowspan="1">global-buffer-overflow</td>
+        <td ></td>
         <td>https://github.com/radareorg/radare2/issues/22507</td>
         <td rowspan="1">2023.12.15</td>
         <td rowspan="1">radare2</td>
