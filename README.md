@@ -11,6 +11,21 @@
         <td>source</td>
     </tr>
     <tr>
+        <td rowspan="2">SEGV</td>
+        <td ></td>
+        <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1875436</td>
+        <td rowspan="1">2024.1.19</td>
+        <td rowspan="2">Mozilla</td>
+        <td rowspan="2">Spidermonkey</td>
+        <td rowspan="2">commit 7bf069df3a2b9f10ebd400e3366910337b75121a (HEAD -> master, origin/master, origin/HEAD)</td>
+        <td rowspan="2">https://github.com/mozilla/gecko-dev</td>
+    </tr>
+    <tr>
+        <td ></td>
+        <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1875742</td>
+        <td rowspan="1">2024.1.22</td>
+    </tr>
+    <tr>
         <td rowspan="1">global-buffer-overflow</td>
         <td ></td>
         <td>https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-jcc2-fr99-q3qh</td>
