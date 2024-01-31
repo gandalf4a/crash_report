@@ -11,6 +11,16 @@
         <td>source</td>
     </tr>
     <tr>
+        <td rowspan="1">out-of-memory</td>
+        <td ></td>
+        <td>https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-wp25-jpx4-r6mc</td>
+        <td rowspan="1">2024.1.31</td>
+        <td rowspan="1">ImageMagick</td>
+        <td rowspan="1">magick</td>
+        <td rowspan="1">7.1.1-28 (Beta)</td>
+        <td rowspan="1">https://github.com/ImageMagick/ImageMagick</td>
+    </tr>
+    <tr>
         <td rowspan="2">SEGV</td>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1875436</td>
