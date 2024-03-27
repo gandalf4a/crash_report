@@ -390,7 +390,7 @@
     </tr>
     <tr>
         <td rowspan="2">SEGV</td>
-        <td ></td>
+        <td >CVE-2024-29489</td>
         <td>https://github.com/jerryscript-project/jerryscript/issues/5101</td>
         <td rowspan="2">2023.10.4</td>
         <td rowspan="3">jerryscript-project</td>
