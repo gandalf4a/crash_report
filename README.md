@@ -17,7 +17,7 @@
         <td rowspan="1">2024.3.20</td>
         <td rowspan="1">edk2</td>
         <td rowspan="1">edk2</td>
-        <td rowspan="1">=commit 35f6a2780e5198315a9f100c07b3bc86187d20a8 (HEAD -> master, origin/master, origin/HEAD)</td>
+        <td rowspan="1">commit 35f6a2780e5198315a9f100c07b3bc86187d20a8 (HEAD -> master, origin/master, origin/HEAD)</td>
         <td rowspan="1">https://github.com/tianocore/edk2</td>
     </tr>
     <tr>
