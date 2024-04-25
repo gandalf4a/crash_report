@@ -11,14 +11,25 @@
         <td>source</td>
     </tr>
     <tr>
+        <td rowspan="2">SEGV</td>
+        <td ></td>
+        <td>https://bugzilla.tianocore.org/show_bug.cgi?id=4764</td>
+        <td rowspan="2">2024.4.25</td>
+        <td rowspan="3">edk2</td>
+        <td rowspan="3">edk2</td>
+        <td rowspan="2">commit d97f964f7ce063f9861f4d21cc6352f6861f95a8 (HEAD -> master, origin/master, origin/HEAD)</td>
+        <td rowspan="3">https://github.com/tianocore/edk2</td>
+    </tr>
+    <tr>
+        <td ></td>
+        <td>https://bugzilla.tianocore.org/show_bug.cgi?id=4765</td>
+    </tr>
+    <tr>
         <td rowspan="1">heap-buffer-overflow</td>
         <td ></td>
         <td>https://github.com/tianocore/edk2/security/advisories/GHSA-pwcx-gr2j-xcf5</td>
         <td rowspan="1">2024.3.20</td>
-        <td rowspan="1">edk2</td>
-        <td rowspan="1">edk2</td>
         <td rowspan="1">commit 35f6a2780e5198315a9f100c07b3bc86187d20a8 (HEAD -> master, origin/master, origin/HEAD)</td>
-        <td rowspan="1">https://github.com/tianocore/edk2</td>
     </tr>
     <tr>
         <td rowspan="1">out-of-memory</td>
