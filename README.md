@@ -11,14 +11,20 @@
         <td>source</td>
     </tr>
     <tr>
+        <td rowspan="1">SEGV</td>
+        <td ></td>
+        <td>https://security.apple.com/reports/OE19808898110</td>
+        <td rowspan="1">2024.5.2</td>
+        <td rowspan="2">Apple</td>
+        <td rowspan="2">macOS</td>
+        <td rowspan="2">14.4</td>
+        <td rowspan="2">https://www.apple.com/</td>
+    </tr>
+    <tr>
         <td rowspan="1">heap-buffer-overflow</td>
         <td ></td>
         <td>https://security.apple.com/reports/OE197700520672</td>
         <td rowspan="1">2024.4.25</td>
-        <td rowspan="1">Apple</td>
-        <td rowspan="1">macOS</td>
-        <td rowspan="1">14.4</td>
-        <td rowspan="1">https://www.apple.com/</td>
     </tr>
     <tr>
         <td rowspan="2">SEGV</td>
