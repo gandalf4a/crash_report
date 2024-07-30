@@ -12,7 +12,7 @@
     </tr>
     <tr>
         <td rowspan="1">SEGV</td>
-        <td ></td>
+        <td >CVE-2024-40784</td>
         <td>https://security.apple.com/reports/OE19808898110</td>
         <td rowspan="1">2024.5.2</td>
         <td rowspan="2">Apple</td>
