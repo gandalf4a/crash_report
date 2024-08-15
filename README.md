@@ -13,8 +13,8 @@
     <tr>
         <td rowspan="2">SEGV</td>
         <td ></td>
-        <td>mail:njs_scope_valid_value</td>
-        <td rowspan="2">2024.8.14</td>
+        <td>https://github.com/nginx/njs/issues/774</td>
+        <td rowspan="2">2024.8.15</td>
         <td rowspan="2">nginx</td>
         <td rowspan="2">njs</td>
         <td rowspan="2">commit 3ac496802862347c5cf8f0b6e3825163dc7bb1c9 (HEAD -> master, origin/master, origin/HEAD)</td>
@@ -22,7 +22,7 @@
     </tr>
     <tr>
         <td ></td>
-        <td>mail:njs_vmcode_function_copy</td>
+        <td>https://github.com/nginx/njs/issues/773</td>
     </tr>
     <tr>
         <td rowspan="1">SEGV</td>
