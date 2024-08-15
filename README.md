@@ -11,7 +11,7 @@
         <td>source</td>
     </tr>
     <tr>
-        <td rowspan="1">SEGV</td>
+        <td rowspan="1">heap-buffer-overflow</td>
         <td ></td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-p8hw-hx4m-c62g</td>
         <td rowspan="1">2024.8.15</td>
