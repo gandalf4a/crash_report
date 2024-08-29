@@ -11,14 +11,20 @@
         <td>source</td>
     </tr>
     <tr>
+        <td rowspan="1">global-buffer-overflow</td>
+        <td ></td>
+        <td>https://github.com/vim/vim/security/advisories/GHSA-wmpj-r35f-66wf</td>
+        <td rowspan="1">2024.8.29</td>
+        <td rowspan="2">vim</td>
+        <td rowspan="2">vim</td>
+        <td rowspan="2">commit ded1677dd20ae795fadc8d6f3c01f012b1338fe1 (HEAD -> master, tag: v9.1.0675, origin/master, origin/HEAD)</td>
+        <td rowspan="2">https://github.com/vim/vim</td>
+    </tr>
+    <tr>
         <td rowspan="1">heap-buffer-overflow</td>
         <td ></td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-p8hw-hx4m-c62g</td>
         <td rowspan="1">2024.8.15</td>
-        <td rowspan="1">vim</td>
-        <td rowspan="1">vim</td>
-        <td rowspan="1">commit ded1677dd20ae795fadc8d6f3c01f012b1338fe1 (HEAD -> master, tag: v9.1.0675, origin/master, origin/HEAD)</td>
-        <td rowspan="1">https://github.com/vim/vim</td>
     </tr>
     <tr>
         <td rowspan="2">SEGV</td>
