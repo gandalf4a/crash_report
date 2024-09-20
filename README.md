@@ -15,10 +15,16 @@
         <td ></td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-w565-qvp3-85w7</td>
         <td rowspan="1">2024.9.19</td>
-        <td rowspan="3">vim</td>
-        <td rowspan="3">vim</td>
-        <td rowspan="1">commit 701c863e68fa24847100beef3c9008024615a081 (HEAD -> master, tag: v9.1.0722, origin/master, origin/HEAD)</td>
-        <td rowspan="3">https://github.com/vim/vim</td>
+        <td rowspan="4">vim</td>
+        <td rowspan="4">vim</td>
+        <td rowspan="2">commit 701c863e68fa24847100beef3c9008024615a081 (HEAD -> master, tag: v9.1.0722, origin/master, origin/HEAD)</td>
+        <td rowspan="4">https://github.com/vim/vim</td>
+    </tr>
+    <tr>
+        <td rowspan="1">heap-use-after-free</td>
+        <td ></td>
+        <td>https://github.com/vim/vim/security/advisories/GHSA-rj48-v4mq-j4vg</td>
+        <td rowspan="1">2024.9.20</td>
     </tr>
     <tr>
         <td rowspan="1">global-buffer-overflow</td>
