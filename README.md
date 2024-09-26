@@ -1,7 +1,7 @@
 # issue & cve
 <table>
     <tr>
-        <td>id</td>
+        <td>number</td>
         <td>CVE</td>
         <td>type</td>
         <td>issue</td>
@@ -12,7 +12,7 @@
         <td>source</td>
     </tr>
     <tr>
-        <td >0110</td>
+        <td >0111</td>
         <td ></td>
         <td rowspan="1">heap-buffer-overflow</td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-w565-qvp3-85w7</td>
@@ -23,14 +23,14 @@
         <td rowspan="4">https://github.com/vim/vim</td>
     </tr>
     <tr>
-        <td >0109</td>
+        <td >0110</td>
         <td ></td>
         <td rowspan="1">heap-use-after-free</td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-rj48-v4mq-j4vg</td>
         <td rowspan="1">2024.9.20</td>
     </tr>
     <tr>
-        <td >0108</td>
+        <td >0109</td>
         <td ></td>
         <td rowspan="1">global-buffer-overflow</td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-wmpj-r35f-66wf</td>
@@ -38,14 +38,14 @@
         <td rowspan="2">commit ded1677dd20ae795fadc8d6f3c01f012b1338fe1 (HEAD -> master, tag: v9.1.0675, origin/master, origin/HEAD)</td>
     </tr>
     <tr>
-        <td >0107</td>
+        <td >0108</td>
         <td ></td>
         <td rowspan="1">heap-buffer-overflow</td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-p8hw-hx4m-c62g</td>
         <td rowspan="1">2024.8.15</td>
     </tr>
     <tr>
-        <td >0106</td>
+        <td >0107</td>
         <td ></td>
         <td rowspan="2">SEGV</td>
         <td>https://github.com/nginx/njs/issues/774</td>
@@ -56,12 +56,12 @@
         <td rowspan="2">https://github.com/nginx/njs/</td>
     </tr>
     <tr>
-        <td >0105</td>
+        <td >0106</td>
         <td ></td>
         <td>https://github.com/nginx/njs/issues/773</td>
     </tr>
     <tr>
-        <td >0104</td>
+        <td >0105</td>
         <td ></td>
         <td rowspan="1">SEGV</td>
         <td>https://security.apple.com/reports/OE19808898110</td>
@@ -72,14 +72,14 @@
         <td rowspan="2">https://www.apple.com/</td>
     </tr>
     <tr>
-        <td >0103</td>
+        <td >0104</td>
         <td ></td>
         <td rowspan="1">heap-buffer-overflow</td>
         <td>https://security.apple.com/reports/OE197700520672</td>
         <td rowspan="1">2024.4.25</td>
     </tr>
     <tr>
-        <td >0102</td>
+        <td >0103</td>
         <td ></td>
         <td rowspan="2">SEGV</td>
         <td>https://bugzilla.tianocore.org/show_bug.cgi?id=4764</td>
@@ -90,12 +90,12 @@
         <td rowspan="3">https://github.com/tianocore/edk2</td>
     </tr>
     <tr>
-        <td >0101</td>
+        <td >0102</td>
         <td ></td>
         <td>https://bugzilla.tianocore.org/show_bug.cgi?id=4765</td>
     </tr>
     <tr>
-        <td >0100</td>
+        <td >0101</td>
         <td ></td>
         <td rowspan="1">heap-buffer-overflow</td>
         <td>https://github.com/tianocore/edk2/security/advisories/GHSA-pwcx-gr2j-xcf5</td>
@@ -103,7 +103,7 @@
         <td rowspan="1">commit 35f6a2780e5198315a9f100c07b3bc86187d20a8 (HEAD -> master, origin/master, origin/HEAD)</td>
     </tr>
     <tr>
-        <td >0099</td>
+        <td >0100</td>
         <td ></td>
         <td rowspan="1">out-of-memory</td>
         <td>https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-wp25-jpx4-r6mc</td>
@@ -114,7 +114,7 @@
         <td rowspan="1">https://github.com/ImageMagick/ImageMagick</td>
     </tr>
     <tr>
-        <td >0098</td>
+        <td >0099</td>
         <td ></td>
         <td rowspan="2">SEGV</td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1875436</td>
@@ -125,13 +125,13 @@
         <td rowspan="2">https://github.com/mozilla/gecko-dev</td>
     </tr>
     <tr>
-        <td >0097</td>
+        <td >0098</td>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1875742</td>
         <td rowspan="1">2024.1.22</td>
     </tr>
     <tr>
-        <td >0096</td>
+        <td >0097</td>
         <td ></td>
         <td rowspan="1">global-buffer-overflow</td>
         <td>https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-jcc2-fr99-q3qh</td>
@@ -142,7 +142,7 @@
         <td rowspan="1">https://github.com/ImageMagick/ImageMagick</td>
     </tr>
     <tr>
-        <td >0095</td>
+        <td >0096</td>
         <td ></td>
         <td rowspan="1">global-buffer-overflow</td>
         <td>https://github.com/radareorg/radare2/issues/22507</td>
@@ -153,14 +153,14 @@
         <td rowspan="2">https://github.com/radareorg/radare2</td>
     </tr>
     <tr>
-        <td >0094</td>
+        <td >0095</td>
         <td ></td>
         <td rowspan="1">heap-buffer-overflow</td>
         <td>https://github.com/radareorg/radare2/issues/22523</td>
         <td rowspan="1">2024.1.2</td>
     </tr>
     <tr>
-        <td >0093</td>
+        <td >0094</td>
         <td ></td>
         <td rowspan="1"></td>
         <td>https://bugs.chromium.org/p/chromium/issues/detail?id=1506948</td>
@@ -171,7 +171,7 @@
         <td rowspan="1">https://chromium.googlesource.com/chromium/</td>
     </tr>
     <tr>
-        <td >0092</td>
+        <td >0093</td>
         <td ></td>
         <td rowspan="7">SEGV</td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1856649</td>
@@ -182,44 +182,44 @@
         <td rowspan="7">https://github.com/mozilla/gecko-dev</td>
     </tr>
     <tr>
-        <td >0091</td>
+        <td >0092</td>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1856646</td>
     </tr>
     <tr>
-        <td >0090</td>
+        <td >0091</td>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1860721</td>
         <td >2023.10.24</td>
         <td >commit 81f368dab93fff035ce7fcc376e16990e89dd5ec (HEAD -> master, origin/master, origin/HEAD)</td>
     </tr>
-        <td >0089</td>
+        <td >0090</td>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1867471</td>
         <td >2023.11.30</td>
         <td rowspan="2">commit 6eb2ebcafb1b4a8576eb513e6cd2c61e3f3ae6dc (HEAD -> master, origin/master, origin/HEAD)</td>
     </tr>
     </tr>
-        <td >0088</td>
+        <td >0089</td>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1868095</td>
         <td >2023.12.4</td>
     </tr>
     </tr>
-        <td >0087</td>
+        <td >0088</td>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1871833</td>
         <td >2023.12.25</td>
         <td rowspan="2">commit 05178ae3d8ed27d47b340094de52bd3f572a5e1d (HEAD -> master, origin/master, origin/HEAD)</td>
     </tr>
     </tr>
-        <td >0086</td>
+        <td >0087</td>
         <td ></td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1872633</td>
         <td >2024.1.2</td>
     </tr>
     <tr>
-        <td >0085</td>
+        <td >0086</td>
         <td >CVE-2023-48706</td>
         <td rowspan="1">heap-use-after-free</td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-c8qm-x72m-q53q</td>
@@ -230,7 +230,7 @@
         <td rowspan="1">https://github.com/vim/vim/</td>
     </tr>
     <tr>
-        <td >0084</td>
+        <td >0085</td>
         <td ></td>
         <td rowspan="6">SEGV</td>
         <td>https://security.apple.com/reports/OE1924480424134</td>
@@ -241,33 +241,33 @@
         <td rowspan="6">https://www.apple.com/</td>
     </tr>
     <tr>
-        <td >0083</td>
+        <td >0084</td>
         <td >CVE-2024-40784</td>
         <td>https://security.apple.com/reports/OE1924480845324</td>
     </tr>
     <tr>
-        <td >0082</td>
+        <td >0083</td>
         <td ></td>
         <td>https://security.apple.com/reports/OE1924480429154</td>
     </tr>
     <tr>
-        <td >0081</td>
+        <td >0082</td>
         <td ></td>
         <td>https://security.apple.com/reports/OE1924480517883</td>
     </tr>
     <tr>
-        <td >0080</td>
+        <td >0081</td>
         <td ></td>
         <td>https://security.apple.com/reports/OE1924480320443</td>
     </tr>
     <tr>
-        <td >0079</td>
+        <td >0080</td>
         <td ></td>
         <td>https://security.apple.com/reports/OE1924500326942</td>
         <td rowspan="1">2023.11.25</td>
     </tr>
     <tr>
-        <td >0078</td>
+        <td >0079</td>
         <td ></td>
         <td>SEGV</td>
         <td>https://forum.videolan.org/viewtopic.php?t=163396</td>
@@ -278,7 +278,7 @@
         <td rowspan="1">https://www.videolan.org/vlc/</td>
     </tr>
     <tr>
-        <td >0077</td>
+        <td >0078</td>
         <td >CVE-2023-5686</td>
         <td rowspan="2">heap-buffer-overflow</td>
         <td>https://huntr.dev/bounties/bbfe1f76-8fa1-4a8c-909d-65b16e970be0</td>
@@ -289,25 +289,25 @@
         <td rowspan="4">https://github.com/radareorg/radare2.git</td>
     </tr>
     <tr>
-        <td >0076</td>
+        <td >0077</td>
         <td >CVE-2023-47016</td>
         <td>https://github.com/radareorg/radare2/issues/22349</td>
         <td>2023.10.27</td>
     </tr>
     <tr>
-        <td >0075</td>
+        <td >0076</td>
         <td >CVE-2023-46569</td>
         <td rowspan="2">global-buffer-overflow</td>
         <td>https://github.com/radareorg/radare2/issues/22333</td>
         <td rowspan="2">2023.10.21</td>
     </tr>
     <tr>
-        <td >0074</td>
+        <td >0075</td>
         <td >CVE-2023-46570</td>
         <td>https://github.com/radareorg/radare2/issues/22334</td>
     </tr>
     <tr>
-        <td >0073</td>
+        <td >0074</td>
         <td ></td>
         <td rowspan="7">stack-overflow</td>
         <td>https://github.com/svaarala/duktape/issues/2548</td>
@@ -318,37 +318,37 @@
         <td rowspan="8">https://github.com/svaarala/duktape.git</td>
     </tr>
     <tr>
-        <td >0072</td>
+        <td >0073</td>
         <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2549</td>
     </tr>
     <tr>
-        <td >0071</td>
+        <td >0072</td>
         <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2550</td>
     </tr>
     <tr>
-        <td >0070</td>
+        <td >0071</td>
         <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2551</td>
     </tr>
     <tr>
-        <td >0069</td>
+        <td >0070</td>
         <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2552</td>
     </tr>
     <tr>
-        <td >0068</td>
+        <td >0069</td>
         <td ></td>
         <td>https://github.com/svaarala/duktape/issues/2553</td>
     </tr>
     <tr>
-        <td >0062-0067</td>
+        <td >0063-0068</td>
         <td ></td>
         <td>6: https://www.huntr.dev/bounties/444d8c24-c2b0-4a48-b076-f964c6ce5482</td>
     </tr>
     <tr>
-        <td >0061</td>
+        <td >0061-0062</td>
         <td ></td>
         <td>SEGV</td>
         <td>2: https://www.huntr.dev/bounties/e2a1370b-fe6d-42cc-be51-fa9d25a6369d</td>
