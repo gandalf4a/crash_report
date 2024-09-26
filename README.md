@@ -3,8 +3,8 @@
     <tr>
         <td>CVE</td>
         <td>number</td>
-        <td>project</td>
         <td>time</td>
+        <td>project</td>
         <td>type</td>
         <td>issue</td>
         <td>version</td>
@@ -13,8 +13,8 @@
     <tr>
         <td ></td>
         <td >111</td>
-        <td rowspan="4">vim</td>
         <td rowspan="1">2024.9.19</td>
+        <td rowspan="4">vim</td>
         <td rowspan="1">heap-buffer-overflow</td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-w565-qvp3-85w7</td>
         <td rowspan="2">commit 701c863e68fa24847100beef3c9008024615a081 (HEAD -> master, tag: v9.1.0722, origin/master, origin/HEAD)</td>
@@ -45,8 +45,8 @@
     <tr>
         <td ></td>
         <td >107</td>
-        <td rowspan="2">nginx-njs</td>
         <td rowspan="2">2024.8.15</td>
+        <td rowspan="2">nginx-njs</td>
         <td rowspan="2">SEGV</td>
         <td>https://github.com/nginx/njs/issues/774</td>
         <td rowspan="2">commit 3ac496802862347c5cf8f0b6e3825163dc7bb1c9 (HEAD -> master, origin/master, origin/HEAD)</td>
@@ -60,8 +60,8 @@
     <tr>
         <td ></td>
         <td >105</td>
-        <td rowspan="2">Apple-ImageIO</td>
         <td rowspan="1">2024.5.2</td>
+        <td rowspan="2">Apple-ImageIO</td>
         <td rowspan="1">SEGV</td>
         <td>https://security.apple.com/reports/OE19808898110</td>
         <td rowspan="2">14.4</td>
@@ -77,8 +77,8 @@
     <tr>
         <td ></td>
         <td >103</td>
-        <td rowspan="3">edk2</td>
         <td rowspan="2">2024.4.25</td>
+        <td rowspan="3">edk2</td>
         <td rowspan="2">SEGV</td>
         <td>https://bugzilla.tianocore.org/show_bug.cgi?id=4764</td>
         <td rowspan="2">commit d97f964f7ce063f9861f4d21cc6352f6861f95a8 (HEAD -> master, origin/master, origin/HEAD)</td>
@@ -100,8 +100,8 @@
     <tr>
         <td ></td>
         <td >100</td>
-        <td rowspan="1">ImageMagick</td>
         <td rowspan="1">2024.1.31</td>
+        <td rowspan="1">ImageMagick</td>
         <td rowspan="1">out-of-memory</td>
         <td>https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-wp25-jpx4-r6mc</td>
         <td rowspan="1">7.1.1-28 (Beta)</td>
@@ -110,8 +110,8 @@
     <tr>
         <td ></td>
         <td >99</td>
-        <td rowspan="2">Mozilla-Spidermonkey</td>
         <td rowspan="1">2024.1.19</td>
+        <td rowspan="2">Mozilla-Spidermonkey</td>
         <td rowspan="2">SEGV</td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1875436</td>
         <td rowspan="2">commit 7bf069df3a2b9f10ebd400e3366910337b75121a (HEAD -> master, origin/master, origin/HEAD)</td>
@@ -126,8 +126,8 @@
     <tr>
         <td ></td>
         <td >97</td>
-        <td rowspan="1">ImageMagick</td>
         <td rowspan="1">2024.1.2</td>
+        <td rowspan="1">ImageMagick</td>
         <td rowspan="1">global-buffer-overflow</td>
         <td>https://github.com/ImageMagick/ImageMagick/security/advisories/GHSA-jcc2-fr99-q3qh</td>
         <td rowspan="1">7.1.1-25 (Beta)</td>
@@ -136,8 +136,8 @@
     <tr>
         <td ></td>
         <td >96</td>
-        <td rowspan="2">radare2</td>
         <td rowspan="1">2023.12.15</td>
+        <td rowspan="2">radare2</td>
         <td rowspan="1">global-buffer-overflow</td>
         <td>https://github.com/radareorg/radare2/issues/22507</td>
         <td rowspan="2">5.8.9 31617</td>
@@ -153,8 +153,8 @@
     <tr>
         <td ></td>
         <td >94</td>
-        <td rowspan="1">Chromium-V8</td>
         <td rowspan="1">2023.12.1</td>
+        <td rowspan="1">Chromium-V8</td>
         <td rowspan="1"></td>
         <td>https://bugs.chromium.org/p/chromium/issues/detail?id=1506948</td>
         <td rowspan="1">commit 8074952a2a6bb804c5028e37138da05c09ac208c (HEAD, origin/main, origin/HEAD)</td>
@@ -163,8 +163,8 @@
     <tr>
         <td ></td>
         <td >93</td>
-        <td rowspan="7">Mozilla-Spidermonkey</td>
         <td rowspan="2">2023.10.3</td>
+        <td rowspan="7">Mozilla-Spidermonkey</td>
         <td rowspan="7">SEGV</td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1856649</td>
         <td rowspan="2">commit b0d28aecd58cbd2db00974db2ef8456856169fb4 (HEAD -> master, origin/master, origin/HEAD)</td>
@@ -210,8 +210,8 @@
     <tr>
         <td >CVE-2023-48706</td>
         <td >86</td>
-        <td rowspan="1">vim</td>
         <td rowspan="1">2023.11.20</td>
+        <td rowspan="1">vim</td>
         <td rowspan="1">heap-use-after-free</td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-c8qm-x72m-q53q</td>
         <td rowspan="1">v9.0.2034</td>
@@ -220,8 +220,8 @@
     <tr>
         <td ></td>
         <td >85</td>
-        <td rowspan="6">Apple-ImageIO</td>
         <td rowspan="5">2023.11.20</td>
+        <td rowspan="6">Apple-ImageIO</td>
         <td rowspan="6">SEGV</td>
         <td>https://security.apple.com/reports/OE1924480424134</td>
         <td rowspan="6">macOS 13.6</td>
@@ -256,9 +256,9 @@
     <tr>
         <td ></td>
         <td >79</td>
-        <td>SEGV</td>
-        <td rowspan="1">vlc-static</td>
         <td>2023.10.25</td>
+        <td rowspan="1">vlc-static</td>
+        <td>SEGV</td>
         <td>https://forum.videolan.org/viewtopic.php?t=163396</td>
         <td rowspan="1">3.0.19</td>
         <td rowspan="1">https://www.videolan.org/vlc/</td>
@@ -266,8 +266,8 @@
     <tr>
         <td >CVE-2023-5686</td>
         <td >78</td>
-        <td rowspan="4">radare2</td>
         <td>2023.10.18</td>
+        <td rowspan="4">radare2</td>
         <td rowspan="2">heap-buffer-overflow</td>
         <td>https://huntr.dev/bounties/bbfe1f76-8fa1-4a8c-909d-65b16e970be0</td>
         <td rowspan="4">git.5.8.8-691-gb2de2288d8</td>
@@ -294,8 +294,8 @@
     <tr>
         <td ></td>
         <td >74</td>
-        <td rowspan="8">duktape</td>
         <td rowspan="8">2023.10.11</td>
+        <td rowspan="8">duktape</td>
         <td rowspan="7">stack-overflow</td>
         <td>https://github.com/svaarala/duktape/issues/2548</td>
         <td rowspan="8">commit 47eedc5d53cdab72c5933148496b91142d5f0940 (HEAD -> master, origin/master, origin/HEAD)​</td>
@@ -340,8 +340,8 @@
     <tr>
         <td ></td>
         <td >60</td>
-        <td rowspan="23">gpac-MP4Box</td>
         <td>2023.10.9</td>
+        <td rowspan="23">gpac-MP4Box</td>
         <td rowspan="2">heap-use-after-free</td>
         <td>https://github.com/gpac/gpac/issues/2611</td>
         <td rowspan="23">2.3-DEV-rev566-g50c2ab06f-master</td>
@@ -356,8 +356,8 @@
     <tr>
         <td ></td>
         <td >58</td>
-        <td>double-free</td>
         <td>2023.10.9</td>
+        <td>double-free</td>
         <td>https://github.com/gpac/gpac/issues/2612</td>
     </tr>
     <tr>
@@ -477,8 +477,8 @@
     <tr>
         <td ></td>
         <td >28</td>
-        <td rowspan="7">tsMuxer</td>
         <td rowspan="6">2023.10.8</td>
+        <td rowspan="7">tsMuxer</td>
         <td>SEGV</td>
         <td>https://github.com/justdan96/tsMuxer/issues/783</td>
         <td rowspan="7">commit 2539d074cd4da0547b97aedd8bc12252b973907c (HEAD -> master, tag: nightly-2023-10-05-01-55-56, origin/master, origin/HEAD)</td>
@@ -519,8 +519,8 @@
     <tr>
         <td >CVE-2024-29489</td>
         <td >20</td>
-        <td rowspan="3">jerryscript-project</td>
         <td rowspan="2">2023.10.4</td>
+        <td rowspan="3">jerryscript-project</td>
         <td rowspan="2">SEGV</td>
         <td>https://github.com/jerryscript-project/jerryscript/issues/5101</td>
         <td rowspan="3">commit a588e4966175a190ec6350b2a3689d30ed017ec9 (HEAD -> master, origin/master, origin/HEAD)</td>
@@ -541,8 +541,8 @@
     <tr>
         <td ></td>
         <td >17</td>
-        <td>Webkit-JavaScriptCore</td>
         <td>2023.9.29</td>
+        <td>Webkit-JavaScriptCore</td>
         <td>memory leaks</td>
         <td>https://bugs.webkit.org/show_bug.cgi?id=262370</td>
         <td>commit 1242f2ee324a89ec535c86d2fe89a86b0e8a1e52 (HEAD -> main, origin/main, origin/HEAD)</td>
@@ -551,8 +551,8 @@
     <tr>
         <td ></td>
         <td >16</td>
-        <td>libpng-pngimage</td>
         <td>2023.6.14</td>
+        <td>libpng-pngimage</td>
         <td>heap-buffer-overflow</td>
         <td>https://github.com/glennrp/libpng/issues/481</td>
         <td>v1.6.39</td>
@@ -561,8 +561,8 @@
     <tr>
         <td ></td>
         <td >15</td>
-        <td rowspan="10">libtiff-tiffcrop</td>
         <td rowspan="10">2023.5.11</td>        
+        <td rowspan="10">libtiff-tiffcrop</td>
         <td>heap-buffer-overflow & heap-use-after-free & SIGSEGV</td>
         <td>https://gitlab.com/libtiff/libtiff/-/issues/573</td>
         <td rowspan="10">4.5.0</td>
@@ -617,8 +617,8 @@
     <tr>
         <td ></td>
         <td >5</td>
-        <td rowspan="5">xpdfreader-pdftotext</td>
         <td rowspan="5">2022.12.26</td>
+        <td rowspan="5">xpdfreader-pdftotext</td>
         <td rowspan="4">stack-overflow</td>
         <td>https://forum.xpdfreader.com/viewtopic.php?t=42378</td>
         <td rowspan="5">4.04</td>
