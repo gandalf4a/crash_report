@@ -12,6 +12,16 @@
     </tr>
     <tr>
         <td ></td>
+        <td >112</td>
+        <td rowspan="1">2024.12.23</td>
+        <td rowspan="1">Mozilla-Spidermonkey</td>
+        <td rowspan="1">SEGV</td>
+        <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1938853</td>
+        <td rowspan="1">commit 2493c256dbff4e3c7e51a7fc61115df887b87e9e (HEAD -> master, origin/master, origin/HEAD)</td>
+        <td rowspan="1">https://github.com/mozilla/gecko-dev</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >111</td>
         <td rowspan="1">2024.9.19</td>
         <td rowspan="4">vim</td>
