@@ -12,6 +12,16 @@
     </tr>
     <tr>
         <td ></td>
+        <td >114</td>
+        <td rowspan="1">2024.12.30</td>
+        <td rowspan="1">vim</td>
+        <td rowspan="1">heap-buffer-overflow</td>
+        <td>https://github.com/vim/vim/security/advisories/GHSA-5rgf-26wj-48v8</td>
+        <td rowspan="1">commit bb955894734b287abfadd3a25786a42038d18d61 (HEAD -> master, tag: v9.1.0938, origin/master, origin/HEAD)</td>
+        <td rowspan="1">https://github.com/vim/vim/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >113</td>
         <td rowspan="1">2024.12.30</td>
         <td rowspan="1">Chromium-V8</td>
