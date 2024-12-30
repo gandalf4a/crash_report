@@ -12,6 +12,16 @@
     </tr>
     <tr>
         <td ></td>
+        <td >113</td>
+        <td rowspan="1">2024.12.30</td>
+        <td rowspan="1">Chromium-V8</td>
+        <td rowspan="1">stack overflow</td>
+        <td>https://issues.chromium.org/issues/386547960</td>
+        <td rowspan="1">commit 22d3776a7ce4a92d5999350a5f2fec3b1c60ea3d (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="1">https://chromium.googlesource.com/chromium/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >112</td>
         <td rowspan="1">2024.12.23</td>
         <td rowspan="1">Mozilla-Spidermonkey</td>
