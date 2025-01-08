@@ -21,7 +21,7 @@
         <td rowspan="1">https://chromium.googlesource.com/chromium/</td>
     </tr>
     <tr>
-        <td ></td>
+        <td > CVE-2025-22134</td>
         <td >114</td>
         <td rowspan="1">2024.12.30</td>
         <td rowspan="1">vim</td>
