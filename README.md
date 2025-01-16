@@ -12,13 +12,20 @@
     </tr>
     <tr>
         <td ></td>
+        <td >116</td>
+        <td rowspan="1">2025.1.16</td>
+        <td rowspan="2">Chromium-V8</td>
+        <td rowspan="2">SEGV</td>
+        <td>https://issues.chromium.org/issues/387831865</td>
+        <td rowspan="1">commit 425656184439b3ba52ffad541e7195bd5546e7a8 (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="2">https://chromium.googlesource.com/chromium/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >115</td>
         <td rowspan="1">2025.1.6</td>
-        <td rowspan="1">Chromium-V8</td>
-        <td rowspan="1">SEGV</td>
         <td>https://issues.chromium.org/issues/387831865</td>
         <td rowspan="1">commit 22d3776a7ce4a92d5999350a5f2fec3b1c60ea3d (HEAD -> main, origin/main, origin/HEAD)</td>
-        <td rowspan="1">https://chromium.googlesource.com/chromium/</td>
     </tr>
     <tr>
         <td > CVE-2025-22134</td>
