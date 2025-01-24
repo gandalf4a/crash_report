@@ -14,11 +14,11 @@
         <td ></td>
         <td >117</td>
         <td rowspan="1">2025.1.24</td>
-        <td rowspan="2">Mozilla-Spidermonkey</td>
-        <td rowspan="2">SEGV</td>
+        <td rowspan="1">Mozilla-Spidermonkey</td>
+        <td rowspan="1">SEGV</td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1943585</td>
         <td rowspan="1">commit ef34dd879ef8d4a0f3d68d371d23caebcd8fef65 (HEAD -> master, origin/master, origin/HEAD)</td>
-        <td rowspan="2">https://github.com/mozilla/gecko-dev</td>
+        <td rowspan="1">https://github.com/mozilla/gecko-dev</td>
     </tr>
     <tr>
         <td ></td>
