@@ -78,7 +78,7 @@
         <td rowspan="4">https://github.com/vim/vim</td>
     </tr>
     <tr>
-        <td >CVE-2024-</td>
+        <td >CVE-2024-47814</td>
         <td >110</td>
         <td rowspan="1">2024.9.20</td>
         <td rowspan="1">heap-use-after-free</td>
