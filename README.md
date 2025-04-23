@@ -12,6 +12,23 @@
     </tr>
     <tr>
         <td ></td>
+        <td >119</td>
+        <td rowspan="1">2025.4.20</td>
+        <td rowspan="2">vim</td>
+        <td rowspan="1">heap-buffer-overflow</td>
+        <td>https://github.com/vim/vim/security/advisories/GHSA-fvq8-54m3-9pr4</td>
+        <td rowspan="2">commit 2ffb4d0298426f6c57f3ec3caae4480024e4372d (HEAD -> master, origin/master, origin/HEAD)</td>
+        <td rowspan="2">https://github.com/vim/vim/</td>
+    </tr>
+    <tr>
+        <td ></td>
+        <td >118</td>
+        <td rowspan="1">2025.4.9</td>
+        <td rowspan="1">global-buffer-overflow</td>
+        <td>https://github.com/vim/vim/security/advisories/GHSA-xxj7-h239-wjjr</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >117</td>
         <td rowspan="1">2025.1.24</td>
         <td rowspan="1">Mozilla-Spidermonkey</td>
