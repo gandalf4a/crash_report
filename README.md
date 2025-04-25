@@ -12,13 +12,21 @@
     </tr>
     <tr>
         <td ></td>
+        <td >120</td>
+        <td rowspan="1">2025.4.25</td>
+        <td rowspan="3">vim</td>
+        <td rowspan="1">double-free</td>
+        <td>https://github.com/vim/vim/security/advisories/GHSA-grwr-2h9c-257f</td>
+        <td rowspan="1">commit 31b78cce6e6412cada49ca994f6665ef4acec792 (HEAD -> master, origin/master, origin/HEAD)</td>
+        <td rowspan="3">https://github.com/vim/vim/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >119</td>
         <td rowspan="1">2025.4.20</td>
-        <td rowspan="2">vim</td>
         <td rowspan="1">heap-buffer-overflow</td>
         <td>https://github.com/vim/vim/security/advisories/GHSA-fvq8-54m3-9pr4</td>
         <td rowspan="2">commit 2ffb4d0298426f6c57f3ec3caae4480024e4372d (HEAD -> master, origin/master, origin/HEAD)</td>
-        <td rowspan="2">https://github.com/vim/vim/</td>
     </tr>
     <tr>
         <td ></td>
