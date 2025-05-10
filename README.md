@@ -12,6 +12,16 @@
     </tr>
     <tr>
         <td ></td>
+        <td >121</td>
+        <td rowspan="1">2025.5.10</td>
+        <td rowspan="2">Chromium-V8</td>
+        <td rowspan="2">SEGV</td>
+        <td>https://issues.chromium.org/issues/416761505</td>
+        <td rowspan="1">commit af75fd3790261048888f5b6e994a5dab939e683e (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="2">https://chromium.googlesource.com/chromium/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >120</td>
         <td rowspan="1">2025.4.25</td>
         <td rowspan="3">vim</td>
