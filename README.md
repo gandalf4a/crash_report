@@ -12,6 +12,16 @@
     </tr>
     <tr>
         <td ></td>
+        <td >122</td>
+        <td rowspan="1">2025.6.9</td>
+        <td rowspan="1">Mozilla-Spidermonkey</td>
+        <td rowspan="1">SEGV</td>
+        <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1856646</td>
+        <td rowspan="1">commit b0d28aecd58cbd2db00974db2ef8456856169fb4 (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="1">https://github.com/mozilla/gecko-dev</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >121</td>
         <td rowspan="1">2025.5.10</td>
         <td rowspan="1">Chromium-V8</td>
