@@ -12,6 +12,16 @@
     </tr>
     <tr>
         <td ></td>
+        <td >123</td>
+        <td rowspan="1">2025.6.20</td>
+        <td rowspan="1">Apple-ImageIO</td>
+        <td rowspan="1">SEGV</td>
+        <td>https://security.apple.com/reports/OE1102480708264</td>
+        <td rowspan="1">15.5</td>
+        <td rowspan="1">https://www.apple.com/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >122</td>
         <td rowspan="1">2025.6.9</td>
         <td rowspan="1">Mozilla-Spidermonkey</td>
