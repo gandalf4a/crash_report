@@ -14,7 +14,7 @@
         <td ></td>
         <td >124</td>
         <td rowspan="1">2025.6.23</td>
-        <td rowspan="2">Apple-ImageIO</td>
+        <td rowspan="1">Apple-CoreAudio</td>
         <td rowspan="2">SEGV</td>
         <td>https://security.apple.com/reports/OE1102492369185</td>
         <td rowspan="2">15.5 & 26.0beta</td>
@@ -24,6 +24,7 @@
         <td ></td>
         <td >123</td>
         <td rowspan="1">2025.6.20</td>
+        <td rowspan="1">Apple-ImageIO</td>
         <td>https://security.apple.com/reports/OE1102480708264</td>
     </tr>
     <tr>
