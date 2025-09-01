@@ -12,13 +12,19 @@
     </tr>
     <tr>
         <td ></td>
+        <td >126</td>
+        <td rowspan="1">2025.9.1</td>
+        <td rowspan="2">Mozilla-Spidermonkey</td>
+        <td rowspan="2">SEGV</td>
+        <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1986243</td>
+        <td rowspan="2">commit 5836a062726f715fda621338a17b51aff30d0a8c (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="2">https://github.com/mozilla/gecko-dev</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >125</td>
         <td rowspan="1">2025.7.29</td>
-        <td rowspan="1">Mozilla-Spidermonkey</td>
-        <td rowspan="1">SEGV</td>
         <td>https://bugzilla.mozilla.org/show_bug.cgi?id=1979822</td>
-        <td rowspan="1">commit 5836a062726f715fda621338a17b51aff30d0a8c (HEAD -> main, origin/main, origin/HEAD)</td>
-        <td rowspan="1">https://github.com/mozilla/gecko-dev</td>
     </tr>
     <tr>
         <td ></td>
