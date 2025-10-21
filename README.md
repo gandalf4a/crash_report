@@ -12,6 +12,16 @@
     </tr>
     <tr>
         <td ></td>
+        <td >127</td>
+        <td rowspan="1">2025.10.21</td>
+        <td rowspan="1">Webkit-JavaScriptCore</td>
+        <td rowspan="1">SEGV</td>
+        <td>https://bugs.webkit.org/show_bug.cgi?id=301178</td>
+        <td rowspan="1">commit 7fd0359ffa67a16628870bba5b09d84fd1db0a5c (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="1">https://github.com/WebKit/WebKit.git</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >126</td>
         <td rowspan="1">2025.9.1</td>
         <td rowspan="2">Mozilla-Spidermonkey</td>
