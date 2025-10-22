@@ -13,7 +13,7 @@
     <tr>
         <td ></td>
         <td >129</td>
-        <td rowspan="1">2025.1.14</td>
+        <td rowspan="1">2025.1.15</td>
         <td rowspan="1">HP ARM NoteBook BIOS</td>
         <td rowspan="1">Buffer Overflow</td>
         <td>https://support.hp.com/us-en/document/ish_13143750-13143772-16/hpsbhf04067</td>
