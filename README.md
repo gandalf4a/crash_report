@@ -12,6 +12,26 @@
     </tr>
     <tr>
         <td ></td>
+        <td >129</td>
+        <td rowspan="1">2025.1.14</td>
+        <td rowspan="1">HP ARM NoteBook BIOS</td>
+        <td rowspan="1">Buffer Overflow</td>
+        <td>https://support.hp.com/us-en/document/ish_13143750-13143772-16/hpsbhf04067</td>
+        <td rowspan="1">07050.1</td>
+        <td rowspan="1">https://www.hp.com/</td>
+    </tr>
+    <tr>
+        <td ></td>
+        <td >128</td>
+        <td rowspan="1">2025.1.14</td>
+        <td rowspan="1">ASUS ARM NoteBook BIOS</td>
+        <td rowspan="1">Buffer Overflow</td>
+        <td>https://www.asus.com/content/security-advisory/#hof/#202507/</td>
+        <td rowspan="1">V1.362.7450.0</td>
+        <td rowspan="1">https://www.asus.com/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >127</td>
         <td rowspan="1">2025.10.21</td>
         <td rowspan="1">Webkit-JavaScriptCore</td>
