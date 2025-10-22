@@ -11,7 +11,7 @@
         <td>source</td>
     </tr>
     <tr>
-        <td ></td>
+        <td >HPSBHF04067</td>
         <td >129</td>
         <td rowspan="1">2025.1.15</td>
         <td rowspan="1">HP ARM NoteBook BIOS</td>
@@ -21,12 +21,12 @@
         <td rowspan="1">https://www.hp.com/</td>
     </tr>
     <tr>
-        <td ></td>
+        <td >Hall of Fame 202507</td>
         <td >128</td>
         <td rowspan="1">2025.1.14</td>
         <td rowspan="1">ASUS ARM NoteBook BIOS</td>
         <td rowspan="1">Buffer Overflow</td>
-        <td>https://www.asus.com/content/security-advisory/#hof/#202507/</td>
+        <td>https://www.asus.com/content/security-advisory/#hof/</td>
         <td rowspan="1">V1.362.7450.0</td>
         <td rowspan="1">https://www.asus.com/</td>
     </tr>
