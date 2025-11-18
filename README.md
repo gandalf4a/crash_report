@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >132</td>
+        <td rowspan="1">2025.11.18</td>
+        <td rowspan="1">Chromium-V8</td>
+        <td rowspan="1">SEGV</td>
+        <td>https://issues.chromium.org/issues/461541263</td>
+        <td rowspan="1">commit ba3189698f3ff53bb77feee74cfab8501f393e6f (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="1">https://chromium.googlesource.com/chromium/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >131</td>
         <td rowspan="1">2025.11.17</td>
         <td rowspan="2">Mozilla-Spidermonkey</td>
