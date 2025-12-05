@@ -15,7 +15,7 @@
         <td rowspan="1">2025.12.5</td>
         <td rowspan="2">Chromium-V8</td>
         <td rowspan="2">SEGV</td>
-        <td>https://issues.chromium.org/issues/461541263</td>
+        <td>https://issues.chromium.org/issues/466134213</td>
         <td rowspan="1">commit ce7e597e90f6df3fa4b6df224bc613b80c635450 (HEAD -> main, origin/main, origin/HEAD)</td>
         <td rowspan="2">https://chromium.googlesource.com/chromium/</td>
     </tr>
