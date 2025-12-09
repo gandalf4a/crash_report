@@ -22,7 +22,7 @@
     <tr>
         <td ></td>
         <td >133</td>
-        <td rowspan="1">2025.12.5</td>\
+        <td rowspan="1">2025.12.5</td>
         <td>https://issues.chromium.org/issues/466134213</td>
         <td rowspan="1">commit ce7e597e90f6df3fa4b6df224bc613b80c635450 (HEAD -> main, origin/main, origin/HEAD)</td>
     </tr>
