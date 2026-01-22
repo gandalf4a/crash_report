@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >134</td>
+        <td rowspan="1">2026.1.22</td>
+        <td rowspan="1">Webkit-JavaScriptCore</td>
+        <td rowspan="1">SEGV</td>
+        <td>https://bugs.webkit.org/show_bug.cgi?id=306000</td>
+        <td rowspan="1">commit 7232022d3ce5b65f4579de0becaf60cf825922ec (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="1">https://github.com/WebKit/WebKit.git</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >133</td>
         <td rowspan="1">2025.12.8</td>
         <td rowspan="3">Chromium-V8</td>
