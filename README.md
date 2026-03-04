@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >135</td>
+        <td rowspan="1">2026.3.4</td>
+        <td rowspan="1">Apple-ImageIO</td>
+        <td rowspan="2">SEGV</td>
+        <td>https://security.apple.com/reports/OE110532365725</td>
+        <td rowspan="2">26.4 beta</td>
+        <td rowspan="2">https://www.apple.com/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >134</td>
         <td rowspan="1">2026.1.22</td>
         <td rowspan="1">Webkit-JavaScriptCore</td>
