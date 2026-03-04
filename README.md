@@ -14,10 +14,10 @@
         <td >135</td>
         <td rowspan="1">2026.3.4</td>
         <td rowspan="1">Apple-ImageIO</td>
-        <td rowspan="2">SEGV</td>
+        <td rowspan="1">SEGV</td>
         <td>https://security.apple.com/reports/OE110532365725</td>
-        <td rowspan="2">26.4 beta</td>
-        <td rowspan="2">https://www.apple.com/</td>
+        <td rowspan="1">26.4 beta</td>
+        <td rowspan="1">https://www.apple.com/</td>
     </tr>
     <tr>
         <td ></td>
