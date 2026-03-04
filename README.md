@@ -12,7 +12,7 @@
     <tr>
         <td ></td>
         <td >135</td>
-        <td rowspan="1">2026.3.4</td>
+        <td rowspan="1">2026.3.3</td>
         <td rowspan="1">Apple-ImageIO</td>
         <td rowspan="1">SEGV</td>
         <td>https://security.apple.com/reports/OE110532365725</td>
