@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >136</td>
+        <td rowspan="1">2026.3.9</td>
+        <td rowspan="1">Chromium-V8</td>
+        <td rowspan="1">SEGV</td>
+        <td>https://issues.chromium.org/issues/490858530</td>
+        <td rowspan="1">commit 2bad4db80d1139e8d46f43cdb57a77c9a687709f (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="1">https://chromium.googlesource.com/chromium/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >135</td>
         <td rowspan="1">2026.3.3</td>
         <td rowspan="1">Apple-ImageIO</td>
