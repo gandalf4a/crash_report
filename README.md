@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >137</td>
+        <td rowspan="1">2026.4.7</td>
+        <td rowspan="1">Mozilla-Spidermonkey</td>
+        <td rowspan="1">SEGV</td>
+        <td>https://bugzilla.mozilla.org/show_bug.cgi?id=2029952</td>
+        <td rowspan="1">commit 187dc6baf299450446944dc90ba2239913004ba8 (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="1">https://github.com/mozilla/firefox</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >136</td>
         <td rowspan="1">2026.3.9</td>
         <td rowspan="1">Chromium-V8</td>
