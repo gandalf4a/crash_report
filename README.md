@@ -11,13 +11,20 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >139</td>
+        <td rowspan="1">2026.4.13</td>
+        <td rowspan="2">Webkit-JavaScriptCore</td>
+        <td rowspan="2">SEGV</td>
+        <td>https://bugs.webkit.org/show_bug.cgi?id=312114</td>
+        <td rowspan="2">commit b7ac868d7113490fad027e4c41f35e1d423640ae (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="2">https://github.com/WebKit/WebKit.git</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >138</td>
         <td rowspan="1">2026.4.10</td>
-        <td rowspan="1">Webkit-JavaScriptCore</td>
         <td rowspan="1">SEGV</td>
         <td>https://bugs.webkit.org/show_bug.cgi?id=311907</td>
-        <td rowspan="1">commit b7ac868d7113490fad027e4c41f35e1d423640ae (HEAD -> main, origin/main, origin/HEAD)</td>
-        <td rowspan="1">https://github.com/WebKit/WebKit.git</td>
     </tr>
     <tr>
         <td ></td>
