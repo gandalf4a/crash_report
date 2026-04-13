@@ -23,7 +23,6 @@
         <td ></td>
         <td >138</td>
         <td rowspan="1">2026.4.10</td>
-        <td rowspan="1">SEGV</td>
         <td>https://bugs.webkit.org/show_bug.cgi?id=311907</td>
     </tr>
     <tr>
