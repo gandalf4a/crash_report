@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >140</td>
+        <td rowspan="1">2026.4.16</td>
+        <td rowspan="1">Apple-ImageIO</td>
+        <td rowspan="1">OOB</td>
+        <td>https://security.apple.com/reports/OE1105664842005</td>
+        <td rowspan="1">26.5 beta 2</td>
+        <td rowspan="1">https://www.apple.com/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >139</td>
         <td rowspan="1">2026.4.13</td>
         <td rowspan="2">Webkit-JavaScriptCore</td>
