@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >146</td>
+        <td rowspan="1">2026.5.21</td>
+        <td rowspan="1">Apple-ImageIO</td>
+        <td rowspan="1">OOB</td>
+        <td>https://security.apple.com/reports/OE1106084789402</td>
+        <td rowspan="1">26.5</td>
+        <td rowspan="1">https://www.apple.com/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >145</td>
         <td rowspan="1">2026.5.15</td>
         <td rowspan="1">Mozilla-Spidermonkey</td>
