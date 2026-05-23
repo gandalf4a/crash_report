@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >147</td>
+        <td rowspan="1">2026.5.23</td>
+        <td rowspan="1">Mozilla-Spidermonkey</td>
+        <td rowspan="1">SEGV</td>
+        <td>https://bugzilla.mozilla.org/show_bug.cgi?id=2041873</td>
+        <td rowspan="1">commit 8b3456fa29ad35f58da4cc0a1d182e039124ba5d (HEAD -> main, origin/main, origin/HEAD)</td>
+        <td rowspan="1">https://github.com/mozilla/firefox</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >146</td>
         <td rowspan="1">2026.5.21</td>
         <td rowspan="1">Apple-ImageIO</td>
