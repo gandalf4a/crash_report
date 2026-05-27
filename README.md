@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >148</td>
+        <td rowspan="1">2026.5.27</td>
+        <td rowspan="1">Apple-CoreAudio</td>
+        <td rowspan="1">SEGV</td>
+        <td>https://security.apple.com/reports/OE1106108732902</td>
+        <td rowspan="1">26.5</td>
+        <td rowspan="1">https://www.apple.com/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >147</td>
         <td rowspan="1">2026.5.23</td>
         <td rowspan="1">Mozilla-Spidermonkey</td>
