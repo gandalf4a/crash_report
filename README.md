@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >149</td>
+        <td rowspan="1">2026.6.1</td>
+        <td rowspan="1">Apple-CoreMedia</td>
+        <td rowspan="1">Heap Corruption</td>
+        <td>https://security.apple.com/reports/OE110644287953</td>
+        <td rowspan="1">26.5</td>
+        <td rowspan="1">https://www.apple.com/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >148</td>
         <td rowspan="1">2026.5.27</td>
         <td rowspan="1">Apple-CoreAudio</td>
