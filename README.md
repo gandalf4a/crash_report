@@ -16,8 +16,8 @@
         <td rowspan="1">Apple-CoreMedia</td>
         <td rowspan="1">Heap Corruption</td>
         <td>https://security.apple.com/reports/OE110644287953</td>
-        <td rowspan="1">26.5</td>
-        <td rowspan="1">https://www.apple.com/</td>
+        <td rowspan="2">26.5</td>
+        <td rowspan="2">https://www.apple.com/</td>
     </tr>
     <tr>
         <td ></td>
@@ -26,8 +26,6 @@
         <td rowspan="1">Apple-CoreAudio</td>
         <td rowspan="1">SEGV</td>
         <td>https://security.apple.com/reports/OE1106108732902</td>
-        <td rowspan="1">26.5</td>
-        <td rowspan="1">https://www.apple.com/</td>
     </tr>
     <tr>
         <td ></td>
