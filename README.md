@@ -93,7 +93,7 @@
         <td>https://issues.chromium.org/issues/503048529</td>
     </tr>
     <tr>
-        <td ></td>
+        <td >CVE-2026-43661</td>
         <td >140</td>
         <td rowspan="1">2026.4.16</td>
         <td rowspan="1">Apple-ImageIO</td>
