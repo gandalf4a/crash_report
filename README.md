@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >150</td>
+        <td rowspan="1">2026.7.7</td>
+        <td rowspan="1">Apple-ImageIO</td>
+        <td rowspan="1">OOB</td>
+        <td>https://security.apple.com/reports/OE1107043950714</td>
+        <td rowspan="1">27.0 beta</td>
+        <td rowspan="1">https://www.apple.com/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >149</td>
         <td rowspan="1">2026.6.1</td>
         <td rowspan="1">Apple-CoreMedia</td>
