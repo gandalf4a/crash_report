@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >151</td>
+        <td rowspan="1">2026.8.10</td>
+        <td rowspan="1">Webkit-JavaScriptCore</td>
+        <td rowspan="1">SEGV</td>
+        <td>https://security.apple.com/reports/OE1107564663015</td>
+        <td rowspan="1">334a2610faa0e991b018c571a7cc0c0325f5d1a6</td>
+        <td rowspan="1">https://github.com/WebKit/WebKit.git</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >150</td>
         <td rowspan="1">2026.7.7</td>
         <td rowspan="1">Apple-ImageIO</td>
