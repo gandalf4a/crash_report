@@ -15,7 +15,7 @@
         <td rowspan="1">2026.8.25</td>
         <td rowspan="1">Linux Kernel bpf</td>
         <td rowspan="1">OOB</td>
-        <td>email</td>
+        <td>https://patchwork.kernel.org/project/netdevbpf/list/?series=1151338</td>
         <td rowspan="1">7.2.0 (0a0d1d55dad570724bf8c7ea83409639cfb4be9b)</td>
         <td rowspan="1">https://github.com/torvalds/linux.git</td>
     </tr>
