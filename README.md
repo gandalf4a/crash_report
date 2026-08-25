@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >1523/td>
+        <td rowspan="1">2026.8.25</td>
+        <td rowspan="1">aosp frameworks av</td>
+        <td rowspan="1">OOB</td>
+        <td>https://issuetracker.google.com/issues/552043106</td>
+        <td rowspan="1">e2f098935447ca4945946de5cb69db843fe3f003</td>
+        <td rowspan="1">https://source.android.google.cn/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >152</td>
         <td rowspan="1">2026.8.25</td>
         <td rowspan="1">Linux Kernel bpf</td>
