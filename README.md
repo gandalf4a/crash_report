@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >152</td>
+        <td rowspan="1">2026.8.25</td>
+        <td rowspan="1">Linux Kernel bpf</td>
+        <td rowspan="1">OOB</td>
+        <td>email</td>
+        <td rowspan="1">7.2.0 (0a0d1d55dad570724bf8c7ea83409639cfb4be9b)</td>
+        <td rowspan="1">https://github.com/torvalds/linux.git</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >151</td>
         <td rowspan="1">2026.8.10</td>
         <td rowspan="1">Webkit-JavaScriptCore</td>
