@@ -11,6 +11,16 @@
         <td>source</td>
     <tr>
         <td ></td>
+        <td >155</td>
+        <td rowspan="1">2026.9.14</td>
+        <td rowspan="1">aosp libavc</td>
+        <td rowspan="1">OOB read</td>
+        <td>https://issuetracker.google.com/issues/561441964</td>
+        <td rowspan="1">android17-release (tag: 26Q2-release)</td>
+        <td rowspan="1">https://source.android.google.cn/</td>
+    </tr>
+    <tr>
+        <td ></td>
         <td >154</td>
         <td rowspan="1">2026.9.9</td>
         <td rowspan="1">aosp frameworks media.extractor</td>
