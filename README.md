@@ -26,7 +26,7 @@
         <td rowspan="2">aosp libavc</td>
         <td rowspan="2">OOB</td>
         <td>https://issuetracker.google.com/issues/561887061</td>
-        <td rowspan="3">android17-release (tag: 26Q2-release)</td>
+        <td rowspan="4">android17-release (tag: 26Q2-release)</td>
         <td rowspan="4">https://source.android.google.cn/</td>
     </tr>
     <tr>
@@ -50,7 +50,6 @@
         <td rowspan="1">aosp frameworks av</td>
         <td rowspan="1">OOB</td>
         <td>https://issuetracker.google.com/issues/552043106</td>
-        <td rowspan="1">main:e2f098935447ca4945946de5cb69db843fe3f003</td>
     </tr>
     <tr>
         <td ></td>
