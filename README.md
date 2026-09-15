@@ -316,7 +316,7 @@
         <td rowspan="2">https://www.apple.com/</td>
     </tr>
     <tr>
-        <td ></td>
+        <td >https://support.apple.com/zh-cn/149034</td>
         <td >123</td>
         <td rowspan="1">2025.6.20</td>
         <td rowspan="1">Apple-ImageIO</td>
