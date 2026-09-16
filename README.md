@@ -72,7 +72,7 @@
         <td rowspan="1">https://github.com/WebKit/WebKit.git</td>
     </tr>
     <tr>
-        <td ></td>
+        <td >CVE-2026-86906</td>
         <td >150</td>
         <td rowspan="1">2026.7.7</td>
         <td rowspan="1">Apple-ImageIO</td>
@@ -110,7 +110,7 @@
         <td rowspan="1">https://github.com/mozilla/firefox</td>
     </tr>
     <tr>
-        <td ></td>
+        <td >CVE-2026-86906</td>
         <td >146</td>
         <td rowspan="1">2026.5.21</td>
         <td rowspan="1">Apple-ImageIO</td>
